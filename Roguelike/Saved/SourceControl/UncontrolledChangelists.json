@@ -6,6 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/Desktop/RougeLike/Root/Roguelike/Content/TopDown/Blueprints/BP_enemy1.uasset",
+				"E:/Desktop/RougeLike/Root/Roguelike/Content/TopDown/Blueprints/BP_player.uasset",
+				"E:/Desktop/RougeLike/Root/Roguelike/Content/TopDown/Blueprints/Health_bar.uasset",
+				"E:/Desktop/RougeLike/Root/Roguelike/Content/TopDown/Blueprints/HealthBar_Screen.uasset",
+				"E:/Desktop/RougeLike/Root/Roguelike/Content/TopDown/Blueprints/Countdown_Timer.uasset",
+				"E:/Desktop/RougeLike/Root/Roguelike/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/WQ/HSDGJV38D4S10P559KXFUJ.uasset",
+				"E:/Desktop/RougeLike/Root/Roguelike/Content/TopDown/Maps/TopDownMap.umap",
 				"D:/Epic/UE_5.2/Projects/Roguelike/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Epic/UE_5.2/Projects/Roguelike/Content/Augments/Augments.uasset",
 				"D:/Epic/UE_5.2/Projects/Roguelike/Content/Augments/Aug_UI.uasset",
