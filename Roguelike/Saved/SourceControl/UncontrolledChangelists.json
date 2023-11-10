@@ -6,21 +6,15 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Epic/UE_5.2/Projects/Roguelike/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Epic/UE_5.2/Projects/Roguelike/Content/Augments.uasset",
 				"D:/Epic/UE_5.2/Projects/Roguelike/Content/Augments/Augments.uasset",
 				"D:/Epic/UE_5.2/Projects/Roguelike/Content/Augments/Aug_UI.uasset",
 				"D:/Epic/UE_5.2/Projects/Roguelike/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
 				"D:/Epic/UE_5.2/Projects/Roguelike/Content/TopDown/Blueprints/BP_player.uasset",
+				"D:/Epic/UE_5.2/Projects/Roguelike/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"D:/Epic/UE_5.2/Projects/Roguelike/Content/TopDown/Blueprints/Health_bar.uasset",
 				"D:/Epic/UE_5.2/Projects/Roguelike/Content/Augments/Aug_choice.uasset",
-				"D:/Epic/UE_5.2/Projects/Roguelike/Content/Augments/Refresh_button.uasset",
-				"D:/Epic/UE_5.2/Projects/Roguelike/Content/TopDown/Blueprints/BP_enemy1.uasset",
-				"D:/Epic/UE_5.2/Projects/Roguelike/Content/__ExternalActors__/TopDown/Maps/TopDownMap/9/WQ/HSDGJV38D4S10P559KXFUJ.uasset",
-				"D:/Epic/UE_5.2/Projects/Roguelike/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/Q6/YBO0OVQ79ACNHD20MS4E3S.uasset",
-				"D:/Epic/UE_5.2/Projects/Roguelike/Content/Animations/Walk.uasset",
-				"D:/Epic/UE_5.2/Projects/Roguelike/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset",
-				"D:/Epic/UE_5.2/Projects/Roguelike/Content/Animations/Enemy1.uasset",
-				"D:/Epic/UE_5.2/Projects/Roguelike/Content/Augments.uasset",
-				"D:/Epic/UE_5.2/Projects/Roguelike/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset"
+				"D:/Epic/UE_5.2/Projects/Roguelike/Content/Augments/Refresh_button.uasset"
 			]
 		}
 	]
