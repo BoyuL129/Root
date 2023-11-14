@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Desktop/RougeLike/Root/Roguelike/Content/TopDown/Blueprints/BP_enemy1.uasset",
+				"E:/Desktop/RougeLike/Root/Roguelike/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/ZZ/E71JFO4GRJAZ71MLQARVZ8.uasset",
 				"D:/Epic/UE_5.2/Projects/Roguelike/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Epic/UE_5.2/Projects/Roguelike/Content/Augments.uasset",
 				"D:/Epic/UE_5.2/Projects/Roguelike/Content/Augments/Augments.uasset",
