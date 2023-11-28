@@ -1279,3 +1279,468 @@ LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
 [2023.11.28-02.15.12:761][217]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms
 [2023.11.28-02.15.12:764][217]AssetCheck: New page: Asset Save: Shop_UI
 [2023.11.28-02.15.12:764][217]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/TopDown/Blueprints/Shop_UI.Shop_UI
+[2023.11.28-02.16.08:509][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.28-02.16.08:559][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/Shop_UI" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/TopDown/Blueprints/Shop_UI.uasset" SILENT=true
+[2023.11.28-02.16.08:577][698]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Shop_UI
+[2023.11.28-02.16.08:577][698]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/Shop_UIE55A3D2E4F1D5F21F221A4A1363CCCC1.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/TopDown/Blueprints/Shop_UI.uasset'
+[2023.11.28-02.16.08:589][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 192 ms)
+[2023.11.28-02.16.08:591][698]AssetCheck: New page: Asset Save: Shop_UI
+[2023.11.28-02.16.08:591][698]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/TopDown/Blueprints/Shop_UI.Shop_UI
+[2023.11.28-02.16.10:730][812]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-02.16.10:750][812]LogSlate: Took 0.000983 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.11.28-02.16.10:842][813]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-02.16.30:863][989]LogSlate: Took 0.000731 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.11.28-03.05.08:916][615]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn_Simple) ...
+[2023.11.28-03.05.08:979][616]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-03.05.09:013][617]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-03.05.13:487][869]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.28-03.05.13:502][869]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.28-03.05.13:515][870]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.11.28-03.05.15:989][ 19]LogContentBrowser: Attempting asset rename: NewFolder -> Weapons
+[2023.11.28-03.05.15:989][ 19]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.28-03.05.18:481][168]LogContentBrowser: Attempting asset rename: Weapons -> Weapons
+[2023.11.28-03.05.25:522][573]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2023.11.28-03.05.30:802][870]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2023.11.28-03.05.30:812][870]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2023.11.28-03.05.30:842][872]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2023.11.28-03.05.38:394][318]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> s_weapons
+[2023.11.28-03.05.38:504][318]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2023.11.28-03.05.54:721][191]LogContentBrowser: Deferred new asset file creation: s_weapons1
+[2023.11.28-03.05.54:736][191]LogContentBrowser: Creating deferred item: s_weapons1
+[2023.11.28-03.05.54:749][192]LogContentBrowser: Renaming the item being created (Deferred Item: s_weapons1).
+[2023.11.28-03.05.56:341][288]LogContentBrowser: Attempting asset rename: s_weapons1 -> s_weapons1
+[2023.11.28-03.05.56:342][288]LogClass: UUserDefinedStruct.Serialize 's_weapons1' validation: Struct 'UserDefinedStruct /Game/Weapons/s_weapons1.s_weapons1' is empty
+[2023.11.28-03.05.56:387][288]LogContentBrowser: End creating deferred item s_weapons1
+[2023.11.28-03.05.58:270][399]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Weapons/s_weapons.s_weapons
+[2023.11.28-03.06.24:181][681]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2023.11.28-03.06.24:183][681]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.035
+[2023.11.28-03.06.24:185][681]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapons/s_weapons] ([1] browsable assets)...
+[2023.11.28-03.06.24:185][681]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/s_weapons]
+[2023.11.28-03.06.24:185][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/s_weapons" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/Autosaves/Game/Weapons/s_weapons_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.11.28-03.06.24:186][681]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Weapons/s_weapons_Auto1
+[2023.11.28-03.06.24:186][681]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/s_weapons_Auto1BA39A6744DD2155AC072E99F46D4E74E.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/Autosaves/Game/Weapons/s_weapons_Auto1.uasset'
+[2023.11.28-03.06.24:188][681]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapons/s_weapons1] ([1] browsable assets)...
+[2023.11.28-03.06.24:188][681]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/s_weapons1]
+[2023.11.28-03.06.24:188][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/s_weapons1" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/Autosaves/Game/Weapons/s_weapons1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.11.28-03.06.24:189][681]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Weapons/s_weapons1_Auto1
+[2023.11.28-03.06.24:189][681]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/s_weapons1_Auto1A88DDDD447FCF8069DC9B7BA20C4E03E.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/Autosaves/Game/Weapons/s_weapons1_Auto1.uasset'
+[2023.11.28-03.06.24:190][681]LogFileHelpers: Auto-saving content packages took 0.007
+[2023.11.28-03.06.29:412][991]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Engine/Transient does not exist, will not scan.
+[2023.11.28-03.06.40:156][613]LogSlate: Took 0.000711 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.11.28-03.08.24:783][625]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.28-03.08.24:832][625]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/s_weapons" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/Weapons/s_weapons.uasset" SILENT=true
+[2023.11.28-03.08.24:836][625]LogSavePackage: Moving output files for package: /Game/Weapons/s_weapons
+[2023.11.28-03.08.24:836][625]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/s_weapons1D768A3941464B90BC7857BD3158C6F6.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/Weapons/s_weapons.uasset'
+[2023.11.28-03.08.24:850][625]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 258 ms)
+[2023.11.28-03.08.24:852][625]AssetCheck: New page: Asset Save: s_weapons
+[2023.11.28-03.08.24:852][625]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Weapons/s_weapons.s_weapons
+[2023.11.28-03.08.50:316][104]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2023.11.28-03.08.50:329][104]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2023.11.28-03.08.50:347][105]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2023.11.28-03.08.58:074][566]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> E_Weapon_types
+[2023.11.28-03.08.58:081][566]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2023.11.28-03.09.00:487][710]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Weapons/E_Weapon_types.E_Weapon_types
+[2023.11.28-03.09.30:414][490]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.28-03.09.30:456][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/E_Weapon_types" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/Weapons/E_Weapon_types.uasset" SILENT=true
+[2023.11.28-03.09.30:458][490]LogSavePackage: Moving output files for package: /Game/Weapons/E_Weapon_types
+[2023.11.28-03.09.30:458][490]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/E_Weapon_types0A9A5E1940D13567B83511B5F50F6CBC.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/Weapons/E_Weapon_types.uasset'
+[2023.11.28-03.09.30:470][490]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 313 ms)
+[2023.11.28-03.09.30:471][490]AssetCheck: New page: Asset Save: E_Weapon_types
+[2023.11.28-03.09.30:471][490]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/Weapons/E_Weapon_types.E_Weapon_types
+[2023.11.28-03.10.13:903][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.28-03.10.13:952][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/s_weapons" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/Weapons/s_weapons.uasset" SILENT=true
+[2023.11.28-03.10.13:955][ 53]LogSavePackage: Moving output files for package: /Game/Weapons/s_weapons
+[2023.11.28-03.10.13:956][ 53]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/s_weapons37FA1C144FE75B6A6517138AF5B3737A.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/Weapons/s_weapons.uasset'
+[2023.11.28-03.10.13:968][ 53]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 378 ms)
+[2023.11.28-03.10.13:970][ 53]AssetCheck: New page: Asset Save: s_weapons
+[2023.11.28-03.10.13:970][ 53]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Weapons/s_weapons.s_weapons
+[2023.11.28-03.10.23:166][599]LogContentBrowser: Attempting asset rename: s_weapons -> s_weapons
+[2023.11.28-03.10.26:776][811]LogContentBrowser: Attempting asset rename: s_weapons -> S_Weapons
+[2023.11.28-03.10.26:843][811]LogMetaData: Removing '/Game/Weapons/RenameTmp.RenameTmp' ref from Metadata '/Game/Weapons/s_weapons.PackageMetaData'
+[2023.11.28-03.10.26:888][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.11.28-03.10.26:903][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.11.28-03.10.26:918][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.11.28-03.10.26:921][811]LogMetaData: Removing '/Game/Weapons/S_Weapons.S_Weapons' ref from Metadata '/Game/Weapons/RenameTmp.PackageMetaData'
+[2023.11.28-03.10.26:949][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.11.28-03.10.26:966][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.11.28-03.10.26:981][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.11.28-03.10.38:563][499]LogContentBrowser: Attempting asset rename: s_weapons1 -> S_Slots
+[2023.11.28-03.10.38:601][499]LogMetaData: Removing '/Game/Weapons/S_Slots.S_Slots' ref from Metadata '/Game/Weapons/s_weapons1.PackageMetaData'
+[2023.11.28-03.10.38:602][499]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.28-03.10.38:648][499]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/S_Slots" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/Weapons/S_Slots.uasset" SILENT=true
+[2023.11.28-03.10.38:650][499]LogSavePackage: Moving output files for package: /Game/Weapons/S_Slots
+[2023.11.28-03.10.38:650][499]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/S_Slots89ADE3FF4A554D5D7754D9ADEFE06EE7.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/Weapons/S_Slots.uasset'
+[2023.11.28-03.10.38:662][499]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 438 ms)
+[2023.11.28-03.10.38:686][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.11.28-03.10.38:704][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.28-03.10.38:721][499]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.11.28-03.10.38:723][499]AssetCheck: New page: Asset Save: S_Slots
+[2023.11.28-03.10.38:723][499]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Weapons/S_Slots.S_Slots
+[2023.11.28-03.10.40:171][583]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Weapons/S_Slots.S_Slots
+[2023.11.28-03.11.09:801][301]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.28-03.11.09:840][301]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/S_Slots" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/Weapons/S_Slots.uasset" SILENT=true
+[2023.11.28-03.11.09:842][301]LogSavePackage: Moving output files for package: /Game/Weapons/S_Slots
+[2023.11.28-03.11.09:843][301]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/S_Slots3517316F4FC6C1438D09F59CAE6EC395.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/Weapons/S_Slots.uasset'
+[2023.11.28-03.11.09:854][301]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 491 ms)
+[2023.11.28-03.11.09:856][301]AssetCheck: New page: Asset Save: S_Slots
+[2023.11.28-03.11.09:856][301]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Weapons/S_Slots.S_Slots
+[2023.11.28-03.12.08:557][840]LogSlate: Window 'Pick Row Structure' being destroyed
+[2023.11.28-03.12.08:569][840]LogContentBrowser: Deferred new asset file creation: NewDataTable
+[2023.11.28-03.12.08:579][840]LogContentBrowser: Creating deferred item: NewDataTable
+[2023.11.28-03.12.08:583][841]LogAutomationController: Ignoring very large delta of 9.73 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.28-03.12.08:597][841]LogContentBrowser: Renaming the item being created (Deferred Item: NewDataTable).
+[2023.11.28-03.12.14:621][197]LogContentBrowser: Attempting asset rename: NewDataTable -> DB_Weapons
+[2023.11.28-03.12.14:623][197]LogContentBrowser: End creating deferred item NewDataTable
+[2023.11.28-03.12.16:238][293]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Weapons/DB_Weapons.DB_Weapons
+[2023.11.28-03.13.54:944][735]LogDerivedDataCache: C:/Users/ad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.342 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5262 files in 7239 folders with total size 482 MiB.
+[2023.11.28-03.16.24:656][183]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.11.28-03.16.24:659][183]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.027
+[2023.11.28-03.16.24:660][183]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapons/S_Weapons] ([1] browsable assets)...
+[2023.11.28-03.16.24:660][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/S_Weapons]
+[2023.11.28-03.16.24:660][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/S_Weapons" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/Autosaves/Game/Weapons/S_Weapons_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.11.28-03.16.24:663][183]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Weapons/S_Weapons_Auto2
+[2023.11.28-03.16.24:663][183]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/S_Weapons_Auto2FE39F1154307820C868EE39C125EF2C3.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/Autosaves/Game/Weapons/S_Weapons_Auto2.uasset'
+[2023.11.28-03.16.24:670][183]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapons/DB_Weapons] ([1] browsable assets)...
+[2023.11.28-03.16.24:670][183]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/DB_Weapons]
+[2023.11.28-03.16.24:670][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/DB_Weapons" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/Autosaves/Game/Weapons/DB_Weapons_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2023.11.28-03.16.24:672][183]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Weapons/DB_Weapons_Auto2
+[2023.11.28-03.16.24:672][183]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/DB_Weapons_Auto2D3426CE24205AB83626D56A56CFD875A.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/Autosaves/Game/Weapons/DB_Weapons_Auto2.uasset'
+[2023.11.28-03.16.24:674][183]LogFileHelpers: Auto-saving content packages took 0.015
+[2023.11.28-03.21.30:232][156]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.28-03.21.30:281][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/DB_Weapons" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/Weapons/DB_Weapons.uasset" SILENT=true
+[2023.11.28-03.21.30:282][156]LogSavePackage: Moving output files for package: /Game/Weapons/DB_Weapons
+[2023.11.28-03.21.30:282][156]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/DB_WeaponsD4062F4C4C258150A70C258734C0DC3A.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/Weapons/DB_Weapons.uasset'
+[2023.11.28-03.21.30:297][156]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 557 ms)
+[2023.11.28-03.21.30:299][156]AssetCheck: New page: Asset Save: DB_Weapons
+[2023.11.28-03.21.30:299][156]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Weapons/DB_Weapons.DB_Weapons
+[2023.11.28-03.27.16:475][211]LogSlate: Took 0.000339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.11.28-03.27.23:999][643]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.28-03.27.24:052][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/DB_Weapons" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/Weapons/DB_Weapons.uasset" SILENT=true
+[2023.11.28-03.27.24:054][643]LogSavePackage: Moving output files for package: /Game/Weapons/DB_Weapons
+[2023.11.28-03.27.24:055][643]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/DB_Weapons5A6954F148297BE8174F21BD639CF916.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/Weapons/DB_Weapons.uasset'
+[2023.11.28-03.27.24:066][643]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 624 ms)
+[2023.11.28-03.27.24:068][643]AssetCheck: New page: Asset Save: DB_Weapons
+[2023.11.28-03.27.24:068][643]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Weapons/DB_Weapons.DB_Weapons
+[2023.11.28-03.28.22:642][135]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.11.28-03.28.22:645][135]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.019
+[2023.11.28-03.28.22:645][135]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapons/DB_Weapons] ([1] browsable assets)...
+[2023.11.28-03.28.22:645][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/DB_Weapons]
+[2023.11.28-03.28.22:645][135]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/DB_Weapons" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/Autosaves/Game/Weapons/DB_Weapons_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.11.28-03.28.22:647][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Weapons/DB_Weapons_Auto3
+[2023.11.28-03.28.22:647][135]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/DB_Weapons_Auto366D00E694D372B763A452EA9FADB7992.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/Autosaves/Game/Weapons/DB_Weapons_Auto3.uasset'
+[2023.11.28-03.28.22:648][135]LogFileHelpers: Auto-saving content packages took 0.004
+[2023.11.28-03.35.55:118][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.28-03.35.55:173][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/DB_Weapons" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/Weapons/DB_Weapons.uasset" SILENT=true
+[2023.11.28-03.35.55:175][ 74]LogSavePackage: Moving output files for package: /Game/Weapons/DB_Weapons
+[2023.11.28-03.35.55:176][ 74]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/DB_Weapons6BCFE891477E053CB1DE4AA107C80D26.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/Weapons/DB_Weapons.uasset'
+[2023.11.28-03.35.55:189][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 694 ms)
+[2023.11.28-03.35.55:191][ 74]AssetCheck: New page: Asset Save: DB_Weapons
+[2023.11.28-03.35.55:191][ 74]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Weapons/DB_Weapons.DB_Weapons
+[2023.11.28-03.36.15:937][280]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.28-03.36.15:982][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/DB_Weapons" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/Weapons/DB_Weapons.uasset" SILENT=true
+[2023.11.28-03.36.15:983][280]LogSavePackage: Moving output files for package: /Game/Weapons/DB_Weapons
+[2023.11.28-03.36.15:984][280]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/DB_Weapons20FF06C24766819E97ADBFB17E8C31DF.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/Weapons/DB_Weapons.uasset'
+[2023.11.28-03.36.15:997][280]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 754 ms)
+[2023.11.28-03.36.15:998][280]AssetCheck: New page: Asset Save: DB_Weapons
+[2023.11.28-03.36.15:998][280]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Weapons/DB_Weapons.DB_Weapons
+[2023.11.28-03.36.17:774][384]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.28-03.36.17:822][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/S_Weapons" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/Weapons/S_Weapons.uasset" SILENT=true
+[2023.11.28-03.36.17:825][384]LogSavePackage: Moving output files for package: /Game/Weapons/S_Weapons
+[2023.11.28-03.36.17:825][384]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/S_Weapons8F97F49F4A6165E770D68BB967F67A69.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/Weapons/S_Weapons.uasset'
+[2023.11.28-03.36.17:837][384]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 817 ms)
+[2023.11.28-03.36.17:838][384]AssetCheck: New page: Asset Save: S_Weapons
+[2023.11.28-03.36.17:838][384]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/Weapons/S_Weapons.S_Weapons
+[2023.11.28-03.52.12:183][226]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.11.28-03.52.12:197][226]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.11.28-03.52.12:207][226]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.11.28-03.52.12:211][227]LogAutomationController: Ignoring very large delta of 2.16 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.28-03.52.12:226][227]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2023.11.28-03.52.24:682][963]LogContentBrowser: Attempting asset rename: NewBlueprint -> BPC_Weapons
+[2023.11.28-03.52.24:693][963]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.11.28-03.52.26:447][ 61]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Weapons/BPC_Weapons.BPC_Weapons
+[2023.11.28-03.52.26:447][ 61]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-03.52.26:448][ 61]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-03.53.17:716][860]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.28-03.53.17:767][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/BPC_Weapons" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/Weapons/BPC_Weapons.uasset" SILENT=true
+[2023.11.28-03.53.17:771][860]LogSavePackage: Moving output files for package: /Game/Weapons/BPC_Weapons
+[2023.11.28-03.53.17:771][860]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/BPC_Weapons6F203830476C877CDE9795A8CB33771C.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/Weapons/BPC_Weapons.uasset'
+[2023.11.28-03.53.17:787][860]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 888 ms)
+[2023.11.28-03.53.17:788][860]AssetCheck: New page: Asset Save: BPC_Weapons
+[2023.11.28-03.53.17:788][860]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/BPC_Weapons.BPC_Weapons
+[2023.11.28-03.53.18:178][883]BlueprintLog: New page: Compile BPC_Weapons
+[2023.11.28-03.53.18:205][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2023.11.28-04.04.59:562][783]BlueprintLog: New page: Compile BPC_Weapons
+[2023.11.28-04.04.59:564][783]LogClass: Warning: Type mismatch in Slots of BPC_Weapons_C - Previous (IntProperty) Current(ArrayProperty) for package:  FObjectReader
+[2023.11.28-04.04.59:565][783]LogBlueprint: Warning: [AssetLog] C:\Users\ad\Documents\GitHub\Root\Roguelike\Content\Weapons\BPC_Weapons.uasset: [Compiler] Can't parse default value '0' for  . Property: Slots.
+[2023.11.28-04.04.59:582][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.28-04.05.12:361][543]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Weapons/S_Slots.S_Slots
+[2023.11.28-04.06.05:593][682]BlueprintLog: New page: Compile BPC_Weapons
+[2023.11.28-04.06.05:613][682]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.28-04.06.06:816][751]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.28-04.06.06:855][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/BPC_Weapons" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/Weapons/BPC_Weapons.uasset" SILENT=true
+[2023.11.28-04.06.06:862][751]LogSavePackage: Moving output files for package: /Game/Weapons/BPC_Weapons
+[2023.11.28-04.06.06:863][751]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/BPC_WeaponsEED918DC4F4DEFC46FC1C9A3FC4693F0.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/Weapons/BPC_Weapons.uasset'
+[2023.11.28-04.06.06:876][751]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 948 ms)
+[2023.11.28-04.06.06:878][751]AssetCheck: New page: Asset Save: BPC_Weapons
+[2023.11.28-04.06.06:879][751]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/BPC_Weapons.BPC_Weapons
+[2023.11.28-04.13.55:676][421]LogDerivedDataCache: C:/Users/ad/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.072 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5262 files in 7239 folders with total size 482 MiB.
+[2023.11.28-04.16.21:359][ 74]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=耳机 (Realtek(R) Audio), InstanceID=1
+[2023.11.28-04.16.21:441][ 74]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4188
+[2023.11.28-04.16.22:107][ 76]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{0f379e7d-cda0-4d75-bc65-21f41019dd14}, Name=耳机 (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=394.62
+[2023.11.28-04.16.22:107][ 76]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.28-04.16.22:109][ 76]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.28-04.16.29:534][ 99]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=扬声器 (Realtek(R) Audio), InstanceID=1
+[2023.11.28-04.16.29:772][ 99]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4188
+[2023.11.28-04.16.30:107][100]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{0e789e1c-5ddb-438f-a021-cba74939ed39}, Name=扬声器 (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=25.57
+[2023.11.28-04.16.30:107][100]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.11.28-04.16.30:110][100]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.11.28-04.18.10:479][591]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-04.18.10:479][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-04.18.10:489][591]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-04.18.10:489][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-04.18.11:449][639]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-04.18.11:450][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-04.18.12:314][684]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.11.28-04.18.12:314][684]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-04.18.12:314][684]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-04.18.12:621][686]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-04.18.12:782][694]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.11.28-04.18.12:783][694]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-04.18.12:783][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-04.18.13:338][722]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-04.18.13:338][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-04.18.13:346][722]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-04.18.13:346][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-04.18.14:601][792]LogSlate: Window 'BPC_Weapons' being destroyed
+[2023.11.28-04.18.14:615][792]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-04.18.14:615][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-04.22.35:484][946]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-04.22.35:545][947]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-04.23.07:599][811]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-04.23.07:657][812]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-04.23.07:885][819]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-04.23.07:933][821]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-04.23.07:960][822]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-04.23.12:262][ 72]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.11.28-04.23.12:275][ 72]LogContentBrowser: Creating deferred item: NewFolder
+[2023.11.28-04.23.12:287][ 73]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.11.28-04.23.13:895][170]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2023.11.28-04.23.13:896][170]LogContentBrowser: End creating deferred item NewFolder
+[2023.11.28-04.23.37:157][514]LogMetaData: Removing '/Game/UI/GameOver_UI.GameOver_UI_C' ref from Metadata '/Game/TopDown/Blueprints/GameOver_UI.PackageMetaData'
+[2023.11.28-04.23.37:157][514]LogMetaData: Removing '/Game/UI/GameOver_UI.GameOver_UI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/TopDown/Blueprints/GameOver_UI.PackageMetaData'
+[2023.11.28-04.23.37:157][514]LogMetaData: Removing '/Game/UI/GameOver_UI.GameOver_UI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/TopDown/Blueprints/GameOver_UI.PackageMetaData'
+[2023.11.28-04.23.37:157][514]LogMetaData: Removing '/Game/UI/GameOver_UI.GameOver_UI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/TopDown/Blueprints/GameOver_UI.PackageMetaData'
+[2023.11.28-04.23.37:157][514]LogMetaData: Removing '/Game/UI/GameOver_UI.SKEL_GameOver_UI_C:PreConstruct' ref from Metadata '/Game/TopDown/Blueprints/GameOver_UI.PackageMetaData'
+[2023.11.28-04.23.37:157][514]LogMetaData: Removing '/Game/UI/GameOver_UI.SKEL_GameOver_UI_C:Construct' ref from Metadata '/Game/TopDown/Blueprints/GameOver_UI.PackageMetaData'
+[2023.11.28-04.23.37:157][514]LogMetaData: Removing '/Game/UI/GameOver_UI.SKEL_GameOver_UI_C:Tick' ref from Metadata '/Game/TopDown/Blueprints/GameOver_UI.PackageMetaData'
+[2023.11.28-04.23.37:157][514]LogMetaData: Removing '/Game/UI/GameOver_UI.SKEL_GameOver_UI_C' ref from Metadata '/Game/TopDown/Blueprints/GameOver_UI.PackageMetaData'
+[2023.11.28-04.23.37:170][514]LogMetaData: Removing '/Game/UI/Health_bar.Health_bar_C' ref from Metadata '/Game/TopDown/Blueprints/Health_bar.PackageMetaData'
+[2023.11.28-04.23.37:170][514]LogMetaData: Removing '/Game/UI/Health_bar.Health_bar:Get_percent.K2Node_FunctionEntry_0' ref from Metadata '/Game/TopDown/Blueprints/Health_bar.PackageMetaData'
+[2023.11.28-04.23.37:170][514]LogMetaData: Removing '/Game/UI/Health_bar.SKEL_Health_bar_C' ref from Metadata '/Game/TopDown/Blueprints/Health_bar.PackageMetaData'
+[2023.11.28-04.23.37:181][514]LogMetaData: Removing '/Game/UI/NextLevel_UI.NextLevel_UI_C' ref from Metadata '/Game/TopDown/Blueprints/NextLevel_UI.PackageMetaData'
+[2023.11.28-04.23.37:181][514]LogMetaData: Removing '/Game/UI/NextLevel_UI.NextLevel_UI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/TopDown/Blueprints/NextLevel_UI.PackageMetaData'
+[2023.11.28-04.23.37:181][514]LogMetaData: Removing '/Game/UI/NextLevel_UI.NextLevel_UI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/TopDown/Blueprints/NextLevel_UI.PackageMetaData'
+[2023.11.28-04.23.37:181][514]LogMetaData: Removing '/Game/UI/NextLevel_UI.NextLevel_UI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/TopDown/Blueprints/NextLevel_UI.PackageMetaData'
+[2023.11.28-04.23.37:181][514]LogMetaData: Removing '/Game/UI/NextLevel_UI.SKEL_NextLevel_UI_C:PreConstruct' ref from Metadata '/Game/TopDown/Blueprints/NextLevel_UI.PackageMetaData'
+[2023.11.28-04.23.37:181][514]LogMetaData: Removing '/Game/UI/NextLevel_UI.SKEL_NextLevel_UI_C:Construct' ref from Metadata '/Game/TopDown/Blueprints/NextLevel_UI.PackageMetaData'
+[2023.11.28-04.23.37:181][514]LogMetaData: Removing '/Game/UI/NextLevel_UI.SKEL_NextLevel_UI_C:Tick' ref from Metadata '/Game/TopDown/Blueprints/NextLevel_UI.PackageMetaData'
+[2023.11.28-04.23.37:181][514]LogMetaData: Removing '/Game/UI/NextLevel_UI.SKEL_NextLevel_UI_C' ref from Metadata '/Game/TopDown/Blueprints/NextLevel_UI.PackageMetaData'
+[2023.11.28-04.23.37:189][514]LogMetaData: Removing '/Game/UI/Shop_UI.Shop_UI_C' ref from Metadata '/Game/TopDown/Blueprints/Shop_UI.PackageMetaData'
+[2023.11.28-04.23.37:190][514]LogMetaData: Removing '/Game/UI/Shop_UI.Shop_UI:EventGraph.K2Node_Event_0' ref from Metadata '/Game/TopDown/Blueprints/Shop_UI.PackageMetaData'
+[2023.11.28-04.23.37:190][514]LogMetaData: Removing '/Game/UI/Shop_UI.Shop_UI:EventGraph.K2Node_Event_1' ref from Metadata '/Game/TopDown/Blueprints/Shop_UI.PackageMetaData'
+[2023.11.28-04.23.37:190][514]LogMetaData: Removing '/Game/UI/Shop_UI.Shop_UI:EventGraph.K2Node_Event_2' ref from Metadata '/Game/TopDown/Blueprints/Shop_UI.PackageMetaData'
+[2023.11.28-04.23.37:190][514]LogMetaData: Removing '/Game/UI/Shop_UI.SKEL_Shop_UI_C' ref from Metadata '/Game/TopDown/Blueprints/Shop_UI.PackageMetaData'
+[2023.11.28-04.23.37:190][514]LogMetaData: Removing '/Game/UI/Shop_UI.SKEL_Shop_UI_C:PreConstruct' ref from Metadata '/Game/TopDown/Blueprints/Shop_UI.PackageMetaData'
+[2023.11.28-04.23.37:190][514]LogMetaData: Removing '/Game/UI/Shop_UI.SKEL_Shop_UI_C:Construct' ref from Metadata '/Game/TopDown/Blueprints/Shop_UI.PackageMetaData'
+[2023.11.28-04.23.37:190][514]LogMetaData: Removing '/Game/UI/Shop_UI.SKEL_Shop_UI_C:Tick' ref from Metadata '/Game/TopDown/Blueprints/Shop_UI.PackageMetaData'
+[2023.11.28-04.23.37:198][514]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.28-04.23.37:244][514]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-04.23.37:330][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_player" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/TopDown/Blueprints/BP_player.uasset" SILENT=true
+[2023.11.28-04.23.37:357][514]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_player
+[2023.11.28-04.23.37:358][514]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/BP_player992D8A714263880F84EACB806788D0F0.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/TopDown/Blueprints/BP_player.uasset'
+[2023.11.28-04.23.37:359][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameOver_UI" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/GameOver_UI.uasset" SILENT=true
+[2023.11.28-04.23.37:365][514]LogSavePackage: Moving output files for package: /Game/UI/GameOver_UI
+[2023.11.28-04.23.37:365][514]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/GameOver_UIB9B2AA9E470C9D68AB911AA9434BFFC3.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/GameOver_UI.uasset'
+[2023.11.28-04.23.37:371][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Health_bar" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/Health_bar.uasset" SILENT=true
+[2023.11.28-04.23.37:378][514]LogSavePackage: Moving output files for package: /Game/UI/Health_bar
+[2023.11.28-04.23.37:378][514]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/Health_barCF7C6A48436CEC4F099159A323093584.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/Health_bar.uasset'
+[2023.11.28-04.23.37:384][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/NextLevel_UI" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/NextLevel_UI.uasset" SILENT=true
+[2023.11.28-04.23.37:395][514]LogSavePackage: Moving output files for package: /Game/UI/NextLevel_UI
+[2023.11.28-04.23.37:395][514]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/NextLevel_UI6A82383C45875634609D32A3BDCEC333.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/NextLevel_UI.uasset'
+[2023.11.28-04.23.37:402][514]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Shop_UI" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/Shop_UI.uasset" SILENT=true
+[2023.11.28-04.23.37:420][514]LogSavePackage: Moving output files for package: /Game/UI/Shop_UI
+[2023.11.28-04.23.37:420][514]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/Shop_UI804C27F6423C81C4EC83D481B58975EA.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/Shop_UI.uasset'
+[2023.11.28-04.23.37:437][514]LogFileHelpers: InternalPromptForCheckoutAndSave took 238 ms (total: 1.18 sec)
+[2023.11.28-04.23.37:504][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.11.28-04.23.37:526][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.11.28-04.23.37:542][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.11.28-04.23.37:567][514]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.28-04.23.37:567][514]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_player.BP_player
+[2023.11.28-04.23.37:567][514]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/GameOver_UI.GameOver_UI
+[2023.11.28-04.23.37:567][514]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Health_bar.Health_bar
+[2023.11.28-04.23.37:567][514]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/NextLevel_UI.NextLevel_UI
+[2023.11.28-04.23.37:568][514]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Shop_UI.Shop_UI
+[2023.11.28-04.24.03:387][ 40]LogMetaData: Removing '/Game/UI/Countdown_Timer.Countdown_Timer_C' ref from Metadata '/Game/TopDown/Blueprints/Countdown_Timer.PackageMetaData'
+[2023.11.28-04.24.03:387][ 40]LogMetaData: Removing '/Game/UI/Countdown_Timer.Countdown_Timer:EventGraph.K2Node_Event_0' ref from Metadata '/Game/TopDown/Blueprints/Countdown_Timer.PackageMetaData'
+[2023.11.28-04.24.03:387][ 40]LogMetaData: Removing '/Game/UI/Countdown_Timer.Countdown_Timer:EventGraph.K2Node_Event_1' ref from Metadata '/Game/TopDown/Blueprints/Countdown_Timer.PackageMetaData'
+[2023.11.28-04.24.03:387][ 40]LogMetaData: Removing '/Game/UI/Countdown_Timer.Countdown_Timer:EventGraph.K2Node_Event_2' ref from Metadata '/Game/TopDown/Blueprints/Countdown_Timer.PackageMetaData'
+[2023.11.28-04.24.03:387][ 40]LogMetaData: Removing '/Game/UI/Countdown_Timer.Countdown_Timer:GetText.K2Node_FunctionEntry_0' ref from Metadata '/Game/TopDown/Blueprints/Countdown_Timer.PackageMetaData'
+[2023.11.28-04.24.03:387][ 40]LogMetaData: Removing '/Game/UI/Countdown_Timer.Countdown_Timer:GetText.K2Node_FunctionResult_0' ref from Metadata '/Game/TopDown/Blueprints/Countdown_Timer.PackageMetaData'
+[2023.11.28-04.24.03:387][ 40]LogMetaData: Removing '/Game/UI/Countdown_Timer.SKEL_Countdown_Timer_C:PreConstruct' ref from Metadata '/Game/TopDown/Blueprints/Countdown_Timer.PackageMetaData'
+[2023.11.28-04.24.03:387][ 40]LogMetaData: Removing '/Game/UI/Countdown_Timer.SKEL_Countdown_Timer_C:Construct' ref from Metadata '/Game/TopDown/Blueprints/Countdown_Timer.PackageMetaData'
+[2023.11.28-04.24.03:387][ 40]LogMetaData: Removing '/Game/UI/Countdown_Timer.SKEL_Countdown_Timer_C:Tick' ref from Metadata '/Game/TopDown/Blueprints/Countdown_Timer.PackageMetaData'
+[2023.11.28-04.24.03:387][ 40]LogMetaData: Removing '/Game/UI/Countdown_Timer.SKEL_Countdown_Timer_C' ref from Metadata '/Game/TopDown/Blueprints/Countdown_Timer.PackageMetaData'
+[2023.11.28-04.24.03:402][ 40]LogMetaData: Removing '/Game/UI/InventorySlot.InventorySlot_C' ref from Metadata '/Game/TopDown/Blueprints/InventorySlot.PackageMetaData'
+[2023.11.28-04.24.03:402][ 40]LogMetaData: Removing '/Game/UI/InventorySlot.InventorySlot:EventGraph.K2Node_Event_0' ref from Metadata '/Game/TopDown/Blueprints/InventorySlot.PackageMetaData'
+[2023.11.28-04.24.03:402][ 40]LogMetaData: Removing '/Game/UI/InventorySlot.InventorySlot:EventGraph.K2Node_Event_1' ref from Metadata '/Game/TopDown/Blueprints/InventorySlot.PackageMetaData'
+[2023.11.28-04.24.03:402][ 40]LogMetaData: Removing '/Game/UI/InventorySlot.InventorySlot:EventGraph.K2Node_Event_2' ref from Metadata '/Game/TopDown/Blueprints/InventorySlot.PackageMetaData'
+[2023.11.28-04.24.03:402][ 40]LogMetaData: Removing '/Game/UI/InventorySlot.SKEL_InventorySlot_C:PreConstruct' ref from Metadata '/Game/TopDown/Blueprints/InventorySlot.PackageMetaData'
+[2023.11.28-04.24.03:402][ 40]LogMetaData: Removing '/Game/UI/InventorySlot.SKEL_InventorySlot_C:Construct' ref from Metadata '/Game/TopDown/Blueprints/InventorySlot.PackageMetaData'
+[2023.11.28-04.24.03:402][ 40]LogMetaData: Removing '/Game/UI/InventorySlot.SKEL_InventorySlot_C:Tick' ref from Metadata '/Game/TopDown/Blueprints/InventorySlot.PackageMetaData'
+[2023.11.28-04.24.03:402][ 40]LogMetaData: Removing '/Game/UI/InventorySlot.SKEL_InventorySlot_C' ref from Metadata '/Game/TopDown/Blueprints/InventorySlot.PackageMetaData'
+[2023.11.28-04.24.03:411][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.28-04.24.03:463][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Shop_UI" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/Shop_UI.uasset" SILENT=true
+[2023.11.28-04.24.03:481][ 40]LogSavePackage: Moving output files for package: /Game/UI/Shop_UI
+[2023.11.28-04.24.03:481][ 40]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/Shop_UIF8C999E44A3445D9C61449A57A94770E.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/Shop_UI.uasset'
+[2023.11.28-04.24.03:483][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Countdown_Timer" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/Countdown_Timer.uasset" SILENT=true
+[2023.11.28-04.24.03:492][ 40]LogSavePackage: Moving output files for package: /Game/UI/Countdown_Timer
+[2023.11.28-04.24.03:492][ 40]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/Countdown_Timer8225A71946005875AA212A949F2F2B53.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/Countdown_Timer.uasset'
+[2023.11.28-04.24.03:500][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/Countdown_Timer" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/TopDown/Blueprints/Countdown_Timer.uasset" SILENT=true
+[2023.11.28-04.24.03:501][ 40]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Countdown_Timer
+[2023.11.28-04.24.03:501][ 40]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/Countdown_Timer80B5157040902BCB239381A5EABC1617.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/TopDown/Blueprints/Countdown_Timer.uasset'
+[2023.11.28-04.24.03:506][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/InventorySlot" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/InventorySlot.uasset" SILENT=true
+[2023.11.28-04.24.03:511][ 40]LogSavePackage: Moving output files for package: /Game/UI/InventorySlot
+[2023.11.28-04.24.03:511][ 40]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/InventorySlotEFEF275D44D22A640A45B6959ABCC4F1.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/InventorySlot.uasset'
+[2023.11.28-04.24.03:528][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 1.30 sec)
+[2023.11.28-04.24.03:554][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.11.28-04.24.03:572][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.11.28-04.24.03:588][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.11.28-04.24.03:610][ 40]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.28-04.24.03:610][ 40]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Shop_UI.Shop_UI
+[2023.11.28-04.24.03:611][ 40]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Countdown_Timer.Countdown_Timer
+[2023.11.28-04.24.03:611][ 40]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/TopDown/Blueprints/Countdown_Timer.Countdown_Timer
+[2023.11.28-04.24.03:611][ 40]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/TopDown/Blueprints/Countdown_Timer.Countdown_Timer_C
+[2023.11.28-04.24.03:611][ 40]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/TopDown/Blueprints/Countdown_Timer.Default__Countdown_Timer_C
+[2023.11.28-04.24.03:611][ 40]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/InventorySlot.InventorySlot
+[2023.11.28-04.24.14:538][686]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2023.11.28-04.24.14:539][686]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2023.11.28-04.24.45:196][951]LogSlate: Window 'Message' being destroyed
+[2023.11.28-04.24.45:207][951]Message dialog closed, result: Cancel, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+TopDownMap
+BP_TopDownGameMode
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2023.11.28-04.24.45:236][952]LogAutomationController: Ignoring very large delta of 9.13 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.11.28-04.24.55:064][521]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-04.24.59:664][792]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.28-04.24.59:714][792]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Maps/TopDownMap" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/TopDown/Maps/TopDownMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.11.28-04.24.59:751][792]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2023.11.28-04.24.59:764][792]LogSavePackage: Moving output files for package: /Game/TopDown/Maps/TopDownMap
+[2023.11.28-04.24.59:766][792]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/TopDownMap0A11BC854C21FA0B95A436AB4FA74EC5.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/TopDown/Maps/TopDownMap.umap'
+[2023.11.28-04.24.59:773][792]LogFileHelpers: Saving map 'TopDownMap' took 0.060
+[2023.11.28-04.24.59:783][792]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 1.42 sec)
+[2023.11.28-04.24.59:786][792]AssetCheck: New page: Asset Save: TopDownMap
+[2023.11.28-04.24.59:786][792]LogContentValidation: Display: Validating /Script/Engine.World /Game/TopDown/Maps/TopDownMap.TopDownMap
+[2023.11.28-04.25.00:784][852]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.28-04.25.00:793][852]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.28-04.25.00:793][852]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2023.11.28-04.25.00:796][852]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 3 ms
+[2023.11.28-04.25.00:799][852]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.11.28-04.25.00:803][852]LogPlayLevel: [PlayLevel] Compiling BP_player before play...
+[2023.11.28-04.25.00:840][852]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2023.11.28-04.25.00:845][852]LogPlayLevel: [PlayLevel] Compiling TopDownMap before play...
+[2023.11.28-04.25.00:859][852]LogPlayLevel: [PlayLevel] Compiling Shop_UI before play...
+[2023.11.28-04.25.00:881][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.11.28-04.25.00:882][852]LogPlayLevel: PlayLevel: Blueprint regeneration took 82 ms (4 blueprints)
+[2023.11.28-04.25.00:882][852]PIE: New page: PIE session: TopDownMap (2023年11月27日 下午4:25:00)
+[2023.11.28-04.25.00:894][852]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.11.28-04.25.00:895][852]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2023.11.28-04.25.00:896][852]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.11.28-04.25.00:905][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008485s)
+[2023.11.28-04.25.00:905][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.008573s)
+[2023.11.28-04.25.00:918][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.11.28-04.25.00:919][852]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-04.25.00:920][852]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-04.25.00:920][852]LogAIModule: Creating AISystem for world TopDownMap
+[2023.11.28-04.25.00:921][852]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.28-04.25.00:922][852]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.28-04.25.00:922][852]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.28-04.25.00:922][852]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.11.28-04.25.00:923][852]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2023.11.28-04.25.00:924][852]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 137 ms)
+[2023.11.28-04.25.00:924][852]LogPlayLevel: PIE: World Init took: (0.004694s)
+[2023.11.28-04.25.00:924][852]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.11.28-04.25.00:924][852]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.28-04.25.00:924][852]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.28-04.25.00:924][852]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.28-04.25.00:924][852]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.28-04.25.00:924][852]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.28-04.25.00:924][852]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.28-04.25.00:924][852]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.28-04.25.00:924][852]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.28-04.25.00:924][852]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.28-04.25.00:924][852]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.28-04.25.00:924][852]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.28-04.25.00:927][852]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.28-04.25.00:967][852]LogAudioMixer: Display: Using Audio Hardware Device 扬声器 (Realtek(R) Audio)
+[2023.11.28-04.25.00:969][852]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.28-04.25.00:969][852]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.28-04.25.00:969][852]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.28-04.25.00:969][852]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.11.28-04.25.00:969][852]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.11.28-04.25.00:972][852]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.11.28-04.25.00:972][852]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.11.28-04.25.00:972][852]LogInit: FAudioDevice initialized with ID 2.
+[2023.11.28-04.25.00:972][852]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownMap'.
+[2023.11.28-04.25.00:972][852]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2023.11.28-04.25.00:984][852]LogLoad: Game class is 'BP_TopDownGameMode_C'
+[2023.11.28-04.25.00:994][852]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 60) at 2023.11.27-22.25.00
+[2023.11.28-04.25.01:006][852]LogWorld: Bringing up level for play took: 0.020564
+[2023.11.28-04.25.01:009][852]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.11.28-04.25.01:042][852]PIE: Server logged in
+[2023.11.28-04.25.01:042][852]PIE: Play in editor total start time 0.251 seconds.
+[2023.11.28-04.25.24:898][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-04.25.24:898][267]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.11.28-04.25.24:899][267]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-04.25.24:901][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-04.25.24:902][267]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2023.11.28-04.25.24:907][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.28-04.25.24:914][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-04.25.24:931][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.28-04.25.24:932][267]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2023.11.28-04.25.24:934][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.11.28-04.25.24:936][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.11.28-04.25.24:951][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.11.28-04.25.25:003][268]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.11.28-04.53.21:722][735]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/BP_player.BP_player
+[2023.11.28-04.53.21:722][735]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-04.53.21:723][735]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-04.53.52:678][695]LogViewport: Scene viewport resized to 1064x813, mode Windowed.
+[2023.11.28-04.54.08:170][588]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Countdown_Timer.Countdown_Timer
+[2023.11.28-04.54.08:171][588]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-04.54.08:171][588]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-04.54.08:180][588]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.28-04.54.08:180][588]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.28-04.54.18:103][162]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-04.54.18:103][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-04.54.18:110][162]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2023.11.28-04.54.18:110][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.28-04.54.19:000][209]BlueprintLog: New page: Compile BP_player
+[2023.11.28-04.54.19:068][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.11.28-04.54.48:168][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.11.28-04.54.48:173][625]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.025
+[2023.11.28-04.54.48:173][625]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_player] ([2] browsable assets)...
+[2023.11.28-04.54.48:215][625]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_player.BP_player]
+[2023.11.28-04.54.48:215][625]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_player]
+[2023.11.28-04.54.48:245][625]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/BP_player_Auto4
+[2023.11.28-04.54.48:246][625]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/BP_player_Auto4AEDA3B1B49FD2537B6C28893E5CB57AF.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/Autosaves/Game/TopDown/Blueprints/BP_player_Auto4.uasset'
+[2023.11.28-04.54.48:247][625]LogFileHelpers: Auto-saving content packages took 0.075
+[2023.11.28-04.56.41:348][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.28-04.56.41:388][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/BP_player" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/TopDown/Blueprints/BP_player.uasset" SILENT=true
+[2023.11.28-04.56.41:411][ 47]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_player
+[2023.11.28-04.56.41:411][ 47]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/BP_player905E873B404D076468481E938880512A.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/TopDown/Blueprints/BP_player.uasset'
+[2023.11.28-04.56.41:425][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 1.50 sec)
+[2023.11.28-04.56.41:427][ 47]AssetCheck: New page: Asset Save: BP_player
+[2023.11.28-04.56.41:427][ 47]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/BP_player.BP_player
