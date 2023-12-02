@@ -1,0 +1,6 @@
+2023/12/02-05:20:05.567 b44 Creating DB C:/Users/rabbi/Root/Roguelike/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/12/02-05:20:05.574 b44 Reusing MANIFEST C:/Users/rabbi/Root/Roguelike/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/02-05:23:08.555 28cc Level-0 table #5: started
+2023/12/02-05:23:08.557 28cc Level-0 table #5: 1167 bytes OK
+2023/12/02-05:23:08.558 28cc Delete type=0 #3
+2023/12/02-05:23:08.559 28cc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
