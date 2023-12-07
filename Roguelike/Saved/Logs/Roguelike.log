@@ -2153,3 +2153,79 @@ Make sure 'Shop_UI_C' has been compiled for  Get WeaponList
 [2023.12.07-04.46.53:669][323]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2023.12.07-04.46.53:670][323]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
 [2023.12.07-04.46.53:670][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-04.47.32:134][865]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Shop_UI.Shop_UI
+[2023.12.07-04.47.32:134][865]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-04.47.32:134][865]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-04.47.32:143][865]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.07-04.47.32:143][865]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.07-04.48.02:144][514]BlueprintLog: New page: Compile Shop_UI
+[2023.12.07-04.48.02:191][514]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.12.07-04.48.38:413][563]BlueprintLog: New page: Compile Shop_UI
+[2023.12.07-04.48.38:455][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.12.07-04.49.06:569][ 24]BlueprintLog: New page: Compile Shop_UI
+[2023.12.07-04.49.06:614][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.12.07-04.49.07:350][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-04.49.07:411][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Shop_UI" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/Shop_UI.uasset" SILENT=true
+[2023.12.07-04.49.07:447][ 58]LogSavePackage: Moving output files for package: /Game/UI/Shop_UI
+[2023.12.07-04.49.07:447][ 58]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/Shop_UI35D3BA7846DEF2FA32B3FDAF124508C8.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/Shop_UI.uasset'
+[2023.12.07-04.49.07:463][ 58]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 1.80 sec)
+[2023.12.07-04.49.07:465][ 58]AssetCheck: New page: Asset Save: Shop_UI
+[2023.12.07-04.49.07:465][ 58]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Shop_UI.Shop_UI
+[2023.12.07-04.49.27:712][194]BlueprintLog: New page: Compile Shop_UI
+[2023.12.07-04.49.27:756][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.12.07-04.49.28:195][213]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-04.49.28:254][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Shop_UI" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/Shop_UI.uasset" SILENT=true
+[2023.12.07-04.49.28:290][213]LogSavePackage: Moving output files for package: /Game/UI/Shop_UI
+[2023.12.07-04.49.28:291][213]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/Shop_UIC7A04E7F419843627EA76DBDC4B097B6.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/Shop_UI.uasset'
+[2023.12.07-04.49.28:308][213]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 1.91 sec)
+[2023.12.07-04.49.28:310][213]AssetCheck: New page: Asset Save: Shop_UI
+[2023.12.07-04.49.28:310][213]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Shop_UI.Shop_UI
+[2023.12.07-04.50.01:018][  8]BlueprintLog: New page: Compile Shop_UI
+[2023.12.07-04.50.01:064][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.12.07-04.50.01:557][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-04.50.01:610][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Shop_UI" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/Shop_UI.uasset" SILENT=true
+[2023.12.07-04.50.01:648][ 28]LogSavePackage: Moving output files for package: /Game/UI/Shop_UI
+[2023.12.07-04.50.01:649][ 28]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/Shop_UIA8942A394C87DF921B97079EBD12DBDE.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/Shop_UI.uasset'
+[2023.12.07-04.50.01:666][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 2.02 sec)
+[2023.12.07-04.50.01:669][ 28]AssetCheck: New page: Asset Save: Shop_UI
+[2023.12.07-04.50.01:669][ 28]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Shop_UI.Shop_UI
+[2023.12.07-04.50.28:028][453]BlueprintLog: New page: Compile Shop_UI
+[2023.12.07-04.50.28:075][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2023.12.07-04.50.28:575][474]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-04.50.28:632][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Shop_UI" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/Shop_UI.uasset" SILENT=true
+[2023.12.07-04.50.28:674][474]LogSavePackage: Moving output files for package: /Game/UI/Shop_UI
+[2023.12.07-04.50.28:675][474]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/Shop_UI230F39444AF3786C15E11A8C76718F44.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/Shop_UI.uasset'
+[2023.12.07-04.50.28:690][474]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 2.13 sec)
+[2023.12.07-04.50.28:693][474]AssetCheck: New page: Asset Save: Shop_UI
+[2023.12.07-04.50.28:693][474]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Shop_UI.Shop_UI
+[2023.12.07-04.51.06:751][ 21]BlueprintLog: New page: Compile Shop_UI
+[2023.12.07-04.51.06:797][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2023.12.07-04.51.07:334][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-04.51.07:388][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Shop_UI" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/Shop_UI.uasset" SILENT=true
+[2023.12.07-04.51.07:429][ 44]LogSavePackage: Moving output files for package: /Game/UI/Shop_UI
+[2023.12.07-04.51.07:430][ 44]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/Shop_UICC0E65DD4C180286763BCEAF252666FD.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/Shop_UI.uasset'
+[2023.12.07-04.51.07:446][ 44]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 2.24 sec)
+[2023.12.07-04.51.07:448][ 44]AssetCheck: New page: Asset Save: Shop_UI
+[2023.12.07-04.51.07:448][ 44]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Shop_UI.Shop_UI
+[2023.12.07-04.51.37:553][599]BlueprintLog: New page: Compile Shop_UI
+[2023.12.07-04.51.37:601][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.12.07-04.51.38:117][620]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-04.51.38:174][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Shop_UI" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/Shop_UI.uasset" SILENT=true
+[2023.12.07-04.51.38:218][620]LogSavePackage: Moving output files for package: /Game/UI/Shop_UI
+[2023.12.07-04.51.38:219][620]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/Shop_UI1F73B3BF40B5A6D357E09C83D72477F5.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/Shop_UI.uasset'
+[2023.12.07-04.51.38:236][620]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 2.36 sec)
+[2023.12.07-04.51.38:238][620]AssetCheck: New page: Asset Save: Shop_UI
+[2023.12.07-04.51.38:238][620]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Shop_UI.Shop_UI
+[2023.12.07-04.51.43:405][868]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-04.51.43:457][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Shop_UI" FILE="C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/Shop_UI.uasset" SILENT=true
+[2023.12.07-04.51.43:500][868]LogSavePackage: Moving output files for package: /Game/UI/Shop_UI
+[2023.12.07-04.51.43:501][868]LogSavePackage: Moving 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Saved/Shop_UI3EFEEFA7467CF35DF671F79A50E52929.tmp' to 'C:/Users/ad/Documents/GitHub/Root/Roguelike/Content/UI/Shop_UI.uasset'
+[2023.12.07-04.51.43:516][868]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 2.47 sec)
+[2023.12.07-04.51.43:519][868]AssetCheck: New page: Asset Save: Shop_UI
+[2023.12.07-04.51.43:519][868]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Shop_UI.Shop_UI
+[2023.12.07-04.51.43:912][891]LogSlate: Window 'Shop_UI' being destroyed
+[2023.12.07-04.51.43:925][891]LogSlate: Window 'Shop_UI' being destroyed
+[2023.12.07-04.51.43:937][891]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-04.51.43:937][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.07-04.51.43:946][891]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.12.07-04.51.43:946][891]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
