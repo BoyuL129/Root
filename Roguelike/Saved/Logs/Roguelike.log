@@ -7065,3 +7065,59 @@ The current user directory, for saving user-specific settings:
 [2023.12.07-19.10.28:567][990]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Input/IMC_Default_Auto6
 [2023.12.07-19.10.28:567][990]LogSavePackage: Moving 'G:/RougeLike/Root/Roguelike/Saved/IMC_Default_Auto68EEDBBAB4D4CB1F3450E09B1373D3B7C.tmp' to 'G:/RougeLike/Root/Roguelike/Saved/Autosaves/Game/TopDown/Input/IMC_Default_Auto6.uasset'
 [2023.12.07-19.10.28:567][990]LogFileHelpers: Auto-saving content packages took 0.002
+[2023.12.07-19.49.30:198][711]LogDerivedDataCache: C:/Users/28348/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.156 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9224 files in 11482 folders with total size 883 MiB.
+[2023.12.07-19.59.24:439][494]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (2- HyperX Cloud II Wireless), InstanceID=1
+[2023.12.07-19.59.24:667][494]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4404
+[2023.12.07-19.59.25:002][495]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7b52cbe2-0297-4924-8ca1-494e57fb446a}, Name=Speakers (2- HyperX Cloud II Wireless)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=9.77
+[2023.12.07-19.59.25:002][495]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.12.07-19.59.25:004][495]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.12.07-20.10.01:349][282]LogSlate: Window 'Plugins' being destroyed
+[2023.12.07-20.10.01:354][282]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2023.12.07-20.12.08:175][169]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2023.12.07-20.12.10:018][331]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2023.12.07-20.12.10:028][331]LogContentBrowser: Creating deferred item: NewInputAction
+[2023.12.07-20.12.10:042][332]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2023.12.07-20.12.15:213][906]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_doge
+[2023.12.07-20.12.15:230][906]LogContentBrowser: End creating deferred item NewInputAction
+[2023.12.07-20.12.18:127][208]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-20.12.18:148][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/BP_Stick" FILE="G:/RougeLike/Root/Roguelike/Content/Weapons/BP_Stick.uasset" SILENT=true
+[2023.12.07-20.12.18:160][208]LogSavePackage: Moving output files for package: /Game/Weapons/BP_Stick
+[2023.12.07-20.12.18:161][208]LogSavePackage: Moving 'G:/RougeLike/Root/Roguelike/Saved/BP_Stick18051203448DB0042D1FC285F1C9E0C8.tmp' to 'G:/RougeLike/Root/Roguelike/Content/Weapons/BP_Stick.uasset'
+[2023.12.07-20.12.18:167][208]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 3.76 sec)
+[2023.12.07-20.12.18:173][208]AssetCheck: New page: Asset Save: BP_Stick
+[2023.12.07-20.12.18:173][208]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/BP_Stick.BP_Stick
+[2023.12.07-20.12.44:004][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2023.12.07-20.12.44:006][515]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.027
+[2023.12.07-20.12.44:007][515]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Input/Actions/IA_doge] ([1] browsable assets)...
+[2023.12.07-20.12.44:007][515]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Input/Actions/IA_doge]
+[2023.12.07-20.12.44:007][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Input/Actions/IA_doge" FILE="G:/RougeLike/Root/Roguelike/Saved/Autosaves/Game/TopDown/Input/Actions/IA_doge_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2023.12.07-20.12.44:007][515]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Input/Actions/IA_doge_Auto7
+[2023.12.07-20.12.44:007][515]LogSavePackage: Moving 'G:/RougeLike/Root/Roguelike/Saved/IA_doge_Auto777325F8D40E7E54C8E9B9E9988D09275.tmp' to 'G:/RougeLike/Root/Roguelike/Saved/Autosaves/Game/TopDown/Input/Actions/IA_doge_Auto7.uasset'
+[2023.12.07-20.12.44:008][515]LogFileHelpers: Auto-saving content packages took 0.002
+[2023.12.07-20.14.31:087][631]LogContentBrowser: Deferred new asset file creation: NewInputAction
+[2023.12.07-20.14.31:092][631]LogContentBrowser: Creating deferred item: NewInputAction
+[2023.12.07-20.14.31:100][632]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputAction).
+[2023.12.07-20.14.38:880][564]LogContentBrowser: Attempting asset rename: NewInputAction -> IA_Attack
+[2023.12.07-20.14.38:881][564]LogContentBrowser: End creating deferred item NewInputAction
+[2023.12.07-20.22.44:153][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2023.12.07-20.22.44:155][589]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.032
+[2023.12.07-20.22.44:155][589]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Input/Actions/IA_Attack] ([1] browsable assets)...
+[2023.12.07-20.22.44:155][589]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Input/Actions/IA_Attack]
+[2023.12.07-20.22.44:155][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Input/Actions/IA_Attack" FILE="G:/RougeLike/Root/Roguelike/Saved/Autosaves/Game/TopDown/Input/Actions/IA_Attack_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2023.12.07-20.22.44:156][589]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Input/Actions/IA_Attack_Auto8
+[2023.12.07-20.22.44:156][589]LogSavePackage: Moving 'G:/RougeLike/Root/Roguelike/Saved/IA_Attack_Auto8FFD987DD4AC600CB8744ADADA3B46953.tmp' to 'G:/RougeLike/Root/Roguelike/Saved/Autosaves/Game/TopDown/Input/Actions/IA_Attack_Auto8.uasset'
+[2023.12.07-20.22.44:157][589]LogFileHelpers: Auto-saving content packages took 0.002
+[2023.12.07-20.49.29:233][459]LogDerivedDataCache: C:/Users/28348/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.191 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9224 files in 11482 folders with total size 883 MiB.
+[2023.12.07-21.49.29:233][263]LogDerivedDataCache: C:/Users/28348/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.191 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9224 files in 11482 folders with total size 883 MiB.
+[2023.12.07-21.55.15:138][144]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-21.55.15:169][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Input/IMC_Default" FILE="G:/RougeLike/Root/Roguelike/Content/TopDown/Input/IMC_Default.uasset" SILENT=true
+[2023.12.07-21.55.15:170][144]LogSavePackage: Moving output files for package: /Game/TopDown/Input/IMC_Default
+[2023.12.07-21.55.15:171][144]LogSavePackage: Moving 'G:/RougeLike/Root/Roguelike/Saved/IMC_Default76EDC7E64ACFAC4D95BCC199C2DC963B.tmp' to 'G:/RougeLike/Root/Roguelike/Content/TopDown/Input/IMC_Default.uasset'
+[2023.12.07-21.55.15:176][144]LogFileHelpers: InternalPromptForCheckoutAndSave took 38 ms (total: 3.79 sec)
+[2023.12.07-21.55.15:178][144]AssetCheck: New page: Asset Save: IMC_Default
+[2023.12.07-21.55.15:178][144]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/TopDown/Input/IMC_Default.IMC_Default
+[2023.12.07-21.55.24:153][155]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-21.55.24:209][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.12.07-21.55.24:231][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.12.07-21.55.24:254][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.12.07-21.55.24:261][155]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 3.90 sec)
