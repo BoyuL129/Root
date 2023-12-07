@@ -5348,3 +5348,50 @@ The current user directory, for saving user-specific settings:
 [2023.12.07-17.28.03:731][620]AssetCheck: New page: Asset Save: BP_enemySpawner_C_UAID_00FFC371892A9EBC01_1778755496
 [2023.12.07-17.28.03:731][620]LogContentValidation: Display: Validating /Game/TopDown/Blueprints/Enemy/BP_enemySpawner.BP_enemySpawner_C /Game/TopDown/Maps/TopDownMap.TopDownMap:PersistentLevel.BP_enemySpawner_C_UAID_00FFC371892A9EBC01_1778755496
 [2023.12.07-17.28.06:264][767]LogViewport: Scene viewport resized to 1147x459, mode Windowed.
+[2023.12.07-17.29.44:335][258]LogViewport: Scene viewport resized to 1147x460, mode Windowed.
+[2023.12.07-17.29.44:516][258]LogViewport: Scene viewport resized to 1193x513, mode Windowed.
+[2023.12.07-17.29.44:621][258]LogViewport: Scene viewport resized to 1216x538, mode Windowed.
+[2023.12.07-17.29.44:663][258]LogViewport: Scene viewport resized to 1219x540, mode Windowed.
+[2023.12.07-17.29.44:704][258]LogViewport: Scene viewport resized to 1220x541, mode Windowed.
+[2023.12.07-17.29.46:854][410]LogViewport: Scene viewport resized to 1220x542, mode Windowed.
+[2023.12.07-17.29.46:896][410]LogViewport: Scene viewport resized to 1220x547, mode Windowed.
+[2023.12.07-17.29.46:937][410]LogViewport: Scene viewport resized to 1220x562, mode Windowed.
+[2023.12.07-17.29.46:979][410]LogViewport: Scene viewport resized to 1220x585, mode Windowed.
+[2023.12.07-17.29.47:021][410]LogViewport: Scene viewport resized to 1220x607, mode Windowed.
+[2023.12.07-17.29.47:062][410]LogViewport: Scene viewport resized to 1220x625, mode Windowed.
+[2023.12.07-17.29.47:104][410]LogViewport: Scene viewport resized to 1220x640, mode Windowed.
+[2023.12.07-17.29.47:147][410]LogViewport: Scene viewport resized to 1220x660, mode Windowed.
+[2023.12.07-17.29.47:188][410]LogViewport: Scene viewport resized to 1220x682, mode Windowed.
+[2023.12.07-17.29.47:229][410]LogViewport: Scene viewport resized to 1220x693, mode Windowed.
+[2023.12.07-17.30.00:738][414]LogViewport: Scene viewport resized to 1221x693, mode Windowed.
+[2023.12.07-17.30.00:780][414]LogViewport: Scene viewport resized to 1223x696, mode Windowed.
+[2023.12.07-17.30.00:821][414]LogViewport: Scene viewport resized to 1228x699, mode Windowed.
+[2023.12.07-17.30.00:863][414]LogViewport: Scene viewport resized to 1236x705, mode Windowed.
+[2023.12.07-17.30.00:912][414]LogViewport: Scene viewport resized to 1254x714, mode Windowed.
+[2023.12.07-17.30.00:975][414]LogViewport: Scene viewport resized to 1270x723, mode Windowed.
+[2023.12.07-17.30.01:037][414]LogViewport: Scene viewport resized to 1279x729, mode Windowed.
+[2023.12.07-17.30.01:100][414]LogViewport: Scene viewport resized to 1288x735, mode Windowed.
+[2023.12.07-17.30.01:149][414]LogViewport: Scene viewport resized to 1296x741, mode Windowed.
+[2023.12.07-17.30.01:211][414]LogViewport: Scene viewport resized to 1305x749, mode Windowed.
+[2023.12.07-17.30.01:260][414]LogViewport: Scene viewport resized to 1307x750, mode Windowed.
+[2023.12.07-17.30.01:301][414]LogViewport: Scene viewport resized to 1307x751, mode Windowed.
+[2023.12.07-17.30.01:343][414]LogViewport: Scene viewport resized to 1307x753, mode Windowed.
+[2023.12.07-17.30.01:406][414]LogViewport: Scene viewport resized to 1311x761, mode Windowed.
+[2023.12.07-17.30.01:469][414]LogViewport: Scene viewport resized to 1311x764, mode Windowed.
+[2023.12.07-17.30.01:545][414]LogViewport: Scene viewport resized to 1311x765, mode Windowed.
+[2023.12.07-17.30.04:598][599]LogViewport: Scene viewport resized to 1311x766, mode Windowed.
+[2023.12.07-17.30.04:647][599]LogViewport: Scene viewport resized to 1311x771, mode Windowed.
+[2023.12.07-17.30.04:703][599]LogViewport: Scene viewport resized to 1311x777, mode Windowed.
+[2023.12.07-17.32.09:178][226]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.12.07-17.32.09:178][226]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.12.07-17.32.39:200][712]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.12.07-17.36.16:979][804]LogSlate: Window 'Color Picker' being destroyed
+[2023.12.07-17.37.24:922][446]BlueprintLog: New page: Compile Shop_UI
+[2023.12.07-17.37.24:964][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.12.07-17.37.26:045][546]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.07-17.37.26:080][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Shop_UI" FILE="G:/RougeLike/Root/Roguelike/Content/UI/Shop_UI.uasset" SILENT=true
+[2023.12.07-17.37.26:102][546]LogSavePackage: Moving output files for package: /Game/UI/Shop_UI
+[2023.12.07-17.37.26:102][546]LogSavePackage: Moving 'G:/RougeLike/Root/Roguelike/Saved/Shop_UI0EF534C54CB39669070D4B8992D182A9.tmp' to 'G:/RougeLike/Root/Roguelike/Content/UI/Shop_UI.uasset'
+[2023.12.07-17.37.26:107][546]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 2.72 sec)
+[2023.12.07-17.37.26:109][546]AssetCheck: New page: Asset Save: Shop_UI
+[2023.12.07-17.37.26:109][546]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Shop_UI.Shop_UI
