@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/RougeLike/Root/Roguelike/Content/TopDown/Blueprints/Enemy/BP_Enemy2.uasset",
+				"C:/RougeLike/Root/Roguelike/Content/TopDown/Blueprints/Bullet1.uasset",
+				"C:/RougeLike/Root/Roguelike/Content/TopDown/Blueprints/BP_player.uasset",
 				"E:/Desktop/RougeLike/Root/Roguelike/Content/TopDown/Blueprints/BP_enemy1.uasset",
 				"E:/Desktop/RougeLike/Root/Roguelike/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/ZZ/E71JFO4GRJAZ71MLQARVZ8.uasset",
 				"E:/Desktop/RougeLike/Root/Roguelike/Content/TopDown/Blueprints/BP_player.uasset",
