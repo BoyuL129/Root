@@ -2166,3 +2166,215 @@ Make sure 'BP_Enemy2Spawner_C' has been compiled for  Set
 [2023.12.09-22.28.53:663][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 1.10 sec)
 [2023.12.09-22.28.53:666][ 14]AssetCheck: New page: Asset Save: BP_Enemy2Spawner
 [2023.12.09-22.28.53:666][ 14]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/Enemy/BP_Enemy2Spawner.BP_Enemy2Spawner
+[2023.12.09-22.29.42:667][933]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.09-22.29.42:829][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/Enemy/BP_Enemy2" FILE="../../../../../RougeLike/Root/Roguelike/Content/TopDown/Blueprints/Enemy/BP_Enemy2.uasset" SILENT=true
+[2023.12.09-22.29.42:844][933]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Enemy/BP_Enemy2
+[2023.12.09-22.29.42:845][933]LogSavePackage: Moving '../../../../../RougeLike/Root/Roguelike/Saved/BP_Enemy24E36B4E54600FA0D83C7DFBA36938CFF.tmp' to '../../../../../RougeLike/Root/Roguelike/Content/TopDown/Blueprints/Enemy/BP_Enemy2.uasset'
+[2023.12.09-22.29.42:861][933]LogFileHelpers: InternalPromptForCheckoutAndSave took 193 ms (total: 1.29 sec)
+[2023.12.09-22.29.42:877][933]AssetCheck: New page: Asset Save: BP_Enemy2
+[2023.12.09-22.29.42:877][933]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/Enemy/BP_Enemy2.BP_Enemy2
+[2023.12.09-22.41.31:758][809]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Weapons/E_Weapon_types.E_Weapon_types
+[2023.12.09-22.41.53:266][368]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Weapons/S_Weapons.S_Weapons
+[2023.12.09-22.43.00:323][  3]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Weapons/S_Slots.S_Slots
+[2023.12.09-23.02.32:380][554]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Weapons/DB_Weapons.DB_Weapons
+[2023.12.09-23.04.02:168][912]LogHttp: Warning: 0000061727515500: request failed, libcurl error: 35 (SSL connect error)
+[2023.12.09-23.04.02:168][912]LogHttp: Warning: 0000061727515500: libcurl info message cache 0 (Found bundle for host: 0x61527150600 [serially])
+[2023.12.09-23.04.02:168][912]LogHttp: Warning: 0000061727515500: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2023.12.09-23.04.02:168][912]LogHttp: Warning: 0000061727515500: libcurl info message cache 2 (We are completely uploaded and fine)
+[2023.12.09-23.04.02:168][912]LogHttp: Warning: 0000061727515500: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2023.12.09-23.04.02:168][912]LogHttp: Warning: 0000061727515500: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.12.09-23.04.02:168][912]LogHttp: Warning: 0000061727515500: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.12.09-23.04.02:168][912]LogHttp: Warning: 0000061727515500: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2023.12.09-23.04.02:168][912]LogHttp: Warning: 0000061727515500: libcurl info message cache 7 (Closing connection)
+[2023.12.09-23.04.02:168][912]LogHttp: Warning: 0000061727515500: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2023.12.09-23.04.02:168][912]LogHttp: Warning: 0000061727515500: libcurl info message cache 9 (Send failure: Connection was reset)
+[2023.12.09-23.04.02:168][912]LogHttp: Warning: 0000061727515500: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2023.12.09-23.04.02:171][912]LogHttp: Warning: 0000061727515500: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBDE52F21-4AA3-F3C9-BAEC-DFB6CEC74EF8%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=4b239bf2403327d86158a4b71a86ab32%7C41e27fc1eebb490e83a1bf5e6c3deddf%7Cca877445-0d2e-4338-a81a-24c0960f1e35&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2023.12.09-23.04.02:171][912]LogHttp: Warning: 0000061727515500: libcurl info message cache 12 (  Trying 52.7.102.36:443...)
+[2023.12.09-23.04.02:171][912]LogHttp: Warning: 0000061727515500: libcurl info message cache 13 (Connected to datarouter.ol.epicgames.com (52.7.102.36) port 443)
+[2023.12.09-23.04.02:171][912]LogHttp: Warning: 0000061727515500: libcurl info message cache 14 (ALPN: curl offers http/1.1)
+[2023.12.09-23.04.02:172][912]LogHttp: Warning: 0000061727515500: libcurl info message cache 15 (SSL reusing session ID)
+[2023.12.09-23.04.02:172][912]LogHttp: Warning: 0000061727515500: libcurl info message cache 16 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.12.09-23.04.02:172][912]LogHttp: Warning: 0000061727515500: libcurl info message cache 17 (Recv failure: Connection was reset)
+[2023.12.09-23.04.02:172][912]LogHttp: Warning: 0000061727515500: libcurl info message cache 18 (OpenSSL SSL_connect: Connection was reset in connection to datarouter.ol.epicgames.com:443 )
+[2023.12.09-23.04.02:172][912]LogHttp: Warning: 0000061727515500: libcurl info message cache 19 (Closing connection)
+[2023.12.09-23.04.02:173][912]LogHttp: Warning: 0000061727515500: libcurl info message cache 20 (Recv failure: Connection was reset)
+[2023.12.09-23.04.02:173][912]LogHttp: Warning: 0000061727515500: libcurl info message cache 21 (Recv failure: Connection was reset)
+[2023.12.09-23.04.02:173][912]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBDE52F21-4AA3-F3C9-BAEC-DFB6CEC74EF8%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=4b239bf2403327d86158a4b71a86ab32%7C41e27fc1eebb490e83a1bf5e6c3deddf%7Cca877445-0d2e-4338-a81a-24c0960f1e35&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.12.09-23.05.02:177][ 92]LogHttp: Warning: 0000061727515F00: request failed, libcurl error: 35 (SSL connect error)
+[2023.12.09-23.05.02:177][ 92]LogHttp: Warning: 0000061727515F00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2023.12.09-23.05.02:177][ 92]LogHttp: Warning: 0000061727515F00: libcurl info message cache 1 (  Trying 52.205.146.164:443...)
+[2023.12.09-23.05.02:177][ 92]LogHttp: Warning: 0000061727515F00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.205.146.164) port 443)
+[2023.12.09-23.05.02:177][ 92]LogHttp: Warning: 0000061727515F00: libcurl info message cache 3 (ALPN: curl offers http/1.1)
+[2023.12.09-23.05.02:177][ 92]LogHttp: Warning: 0000061727515F00: libcurl info message cache 4 (SSL reusing session ID)
+[2023.12.09-23.05.02:177][ 92]LogHttp: Warning: 0000061727515F00: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.12.09-23.05.02:177][ 92]LogHttp: Warning: 0000061727515F00: libcurl info message cache 6 (Recv failure: Connection was reset)
+[2023.12.09-23.05.02:177][ 92]LogHttp: Warning: 0000061727515F00: libcurl info message cache 7 (OpenSSL SSL_connect: Connection was reset in connection to datarouter.ol.epicgames.com:443 )
+[2023.12.09-23.05.02:177][ 92]LogHttp: Warning: 0000061727515F00: libcurl info message cache 8 (Closing connection)
+[2023.12.09-23.05.02:177][ 92]LogHttp: Warning: 0000061727515F00: libcurl info message cache 9 (Recv failure: Connection was reset)
+[2023.12.09-23.05.02:177][ 92]LogHttp: Warning: 0000061727515F00: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2023.12.09-23.05.02:177][ 92]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBDE52F21-4AA3-F3C9-BAEC-DFB6CEC74EF8%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=4b239bf2403327d86158a4b71a86ab32%7C41e27fc1eebb490e83a1bf5e6c3deddf%7Cca877445-0d2e-4338-a81a-24c0960f1e35&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.12.09-23.07.26:788][  6]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.09-23.07.26:865][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/DB_Weapons" FILE="../../../../../RougeLike/Root/Roguelike/Content/Weapons/DB_Weapons.uasset" SILENT=true
+[2023.12.09-23.07.26:871][  6]LogSavePackage: Moving output files for package: /Game/Weapons/DB_Weapons
+[2023.12.09-23.07.26:872][  6]LogSavePackage: Moving '../../../../../RougeLike/Root/Roguelike/Saved/DB_Weapons13659EB648ED7CE771833BA343AA867F.tmp' to '../../../../../RougeLike/Root/Roguelike/Content/Weapons/DB_Weapons.uasset'
+[2023.12.09-23.07.26:889][  6]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 1.39 sec)
+[2023.12.09-23.07.26:900][  6]AssetCheck: New page: Asset Save: DB_Weapons
+[2023.12.09-23.07.26:900][  6]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Weapons/DB_Weapons.DB_Weapons
+[2023.12.09-23.08.03:086][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.09-23.08.03:150][553]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/DB_Weapons" FILE="../../../../../RougeLike/Root/Roguelike/Content/Weapons/DB_Weapons.uasset" SILENT=true
+[2023.12.09-23.08.03:153][553]LogSavePackage: Moving output files for package: /Game/Weapons/DB_Weapons
+[2023.12.09-23.08.03:155][553]LogSavePackage: Moving '../../../../../RougeLike/Root/Roguelike/Saved/DB_Weapons4B77124F44B29C307E92EB9A85CD7A52.tmp' to '../../../../../RougeLike/Root/Roguelike/Content/Weapons/DB_Weapons.uasset'
+[2023.12.09-23.08.03:169][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 1.47 sec)
+[2023.12.09-23.08.03:172][553]AssetCheck: New page: Asset Save: DB_Weapons
+[2023.12.09-23.08.03:172][553]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Weapons/DB_Weapons.DB_Weapons
+[2023.12.09-23.08.58:398][825]LogStaticMesh: Display: Building static mesh bow...
+[2023.12.09-23.08.58:509][829]LogStaticMesh: Built static mesh [0.12s] /Game/WeaponModels/bow/bow.bow
+[2023.12.09-23.09.01:828][998]LogShaderCompilers: Display: ================================================
+[2023.12.09-23.09.01:829][998]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.09-23.09.01:829][998]LogShaderCompilers: Display: Total job queries 3,355, among them cache hits 11 (0.33%)
+[2023.12.09-23.09.01:829][998]LogShaderCompilers: Display: Tracking 3,334 distinct input hashes that result in 2,370 distinct outputs (71.09%)
+[2023.12.09-23.09.01:829][998]LogShaderCompilers: Display: RAM used: 11.74 MiB of 409.60 MiB budget. Usage: 2.87%
+[2023.12.09-23.09.01:829][998]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.09-23.09.01:829][998]LogShaderCompilers: Display: Shaders Compiled: 3,334
+[2023.12.09-23.09.01:829][998]LogShaderCompilers: Display: Jobs assigned 3,338, completed 3,334 (99.88%)
+[2023.12.09-23.09.01:829][998]LogShaderCompilers: Display: Average time worker was idle: 121.56 s
+[2023.12.09-23.09.01:829][998]LogShaderCompilers: Display: Time job spent in pending queue: average 429.24 s, longest 1026.12 s
+[2023.12.09-23.09.01:829][998]LogShaderCompilers: Display: Job execution time: average 16.77 s, max 117.16 s
+[2023.12.09-23.09.01:829][998]LogShaderCompilers: Display: Job life time (pending + execution): average 446.52 s, max 1030.87
+[2023.12.09-23.09.01:829][998]LogShaderCompilers: Display: Shader code size: average 14.229 KiB, min 140 B, max 154.367 KiB
+[2023.12.09-23.09.01:829][998]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1200.62 s
+[2023.12.09-23.09.01:829][998]LogShaderCompilers: Display: Jobs were issued in 437 batches (only local compilation was used), average 7.64 jobs/batch
+[2023.12.09-23.09.01:829][998]LogShaderCompilers: Display: Average processing rate: 2.78 jobs/sec
+[2023.12.09-23.09.01:829][998]LogShaderCompilers: Display: Total thread time: 5,781.369 s
+[2023.12.09-23.09.01:830][998]LogShaderCompilers: Display: Total thread preprocess time: 154.681 s
+[2023.12.09-23.09.01:830][998]LogShaderCompilers: Display: Percentage time preprocessing: 2.68%
+[2023.12.09-23.09.01:830][998]LogShaderCompilers: Display: Effective parallelization: 4.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.12.09-23.09.01:835][998]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.09-23.09.01:836][998]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 27.64 sec, max 27.64 sec, min 27.64 sec)
+[2023.12.09-23.09.01:836][998]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 26.63 sec, max 85.56 sec, min 3.01 sec)
+[2023.12.09-23.09.01:836][998]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 14.83 sec, max 14.83 sec, min 14.83 sec)
+[2023.12.09-23.09.01:836][998]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   34 times, average 13.46 sec, max 26.01 sec, min 5.17 sec)
+[2023.12.09-23.09.01:836][998]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 12.28 sec, max 12.28 sec, min 12.28 sec)
+[2023.12.09-23.09.01:836][998]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.09-23.09.01:836][998]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 12.86% of total time (compiled  128 times, average 5.81 sec, max 18.19 sec, min 1.19 sec)
+[2023.12.09-23.09.01:836][998]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 10.80% of total time (compiled  128 times, average 4.88 sec, max 8.49 sec, min 3.21 sec)
+[2023.12.09-23.09.01:836][998]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 7.91% of total time (compiled   34 times, average 13.46 sec, max 26.01 sec, min 5.17 sec)
+[2023.12.09-23.09.01:837][998]LogShaderCompilers: Display:                                             FDeferredLightPS - 6.74% of total time (compiled   90 times, average 4.33 sec, max 8.41 sec, min 0.70 sec)
+[2023.12.09-23.09.01:837][998]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 5.57% of total time (compiled   96 times, average 3.35 sec, max 9.39 sec, min 0.68 sec)
+[2023.12.09-23.09.01:837][998]LogShaderCompilers: Display: ================================================
+[2023.12.09-23.09.04:009][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.09-23.09.04:080][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/DB_Weapons" FILE="../../../../../RougeLike/Root/Roguelike/Content/Weapons/DB_Weapons.uasset" SILENT=true
+[2023.12.09-23.09.04:096][ 89]LogSavePackage: Moving output files for package: /Game/Weapons/DB_Weapons
+[2023.12.09-23.09.04:097][ 89]LogSavePackage: Moving '../../../../../RougeLike/Root/Roguelike/Saved/DB_Weapons66678B14498DEC701518B89021909577.tmp' to '../../../../../RougeLike/Root/Roguelike/Content/Weapons/DB_Weapons.uasset'
+[2023.12.09-23.09.04:113][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 1.58 sec)
+[2023.12.09-23.09.04:114][ 89]AssetCheck: New page: Asset Save: DB_Weapons
+[2023.12.09-23.09.04:115][ 89]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Weapons/DB_Weapons.DB_Weapons
+[2023.12.09-23.12.19:933][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.09-23.12.19:994][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/DB_Weapons" FILE="../../../../../RougeLike/Root/Roguelike/Content/Weapons/DB_Weapons.uasset" SILENT=true
+[2023.12.09-23.12.20:002][ 89]LogSavePackage: Moving output files for package: /Game/Weapons/DB_Weapons
+[2023.12.09-23.12.20:003][ 89]LogSavePackage: Moving '../../../../../RougeLike/Root/Roguelike/Saved/DB_WeaponsAC4329A94AE99A912A24E1833F719624.tmp' to '../../../../../RougeLike/Root/Roguelike/Content/Weapons/DB_Weapons.uasset'
+[2023.12.09-23.12.20:020][ 89]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 1.67 sec)
+[2023.12.09-23.12.20:023][ 89]AssetCheck: New page: Asset Save: DB_Weapons
+[2023.12.09-23.12.20:023][ 89]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Weapons/DB_Weapons.DB_Weapons
+[2023.12.09-23.12.23:796][272]LogViewport: Scene viewport resized to 1289x1184, mode Windowed.
+[2023.12.09-23.12.25:536][301]LogShaderCompilers: Display: ================================================
+[2023.12.09-23.12.25:537][301]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.12.09-23.12.25:537][301]LogShaderCompilers: Display: Total job queries 3,362, among them cache hits 11 (0.33%)
+[2023.12.09-23.12.25:537][301]LogShaderCompilers: Display: Tracking 3,341 distinct input hashes that result in 2,375 distinct outputs (71.09%)
+[2023.12.09-23.12.25:537][301]LogShaderCompilers: Display: RAM used: 11.75 MiB of 409.60 MiB budget. Usage: 2.87%
+[2023.12.09-23.12.25:537][301]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.12.09-23.12.25:537][301]LogShaderCompilers: Display: Shaders Compiled: 3,341
+[2023.12.09-23.12.25:538][301]LogShaderCompilers: Display: Jobs assigned 3,345, completed 3,341 (99.88%)
+[2023.12.09-23.12.25:538][301]LogShaderCompilers: Display: Average time worker was idle: 121.46 s
+[2023.12.09-23.12.25:538][301]LogShaderCompilers: Display: Time job spent in pending queue: average 428.34 s, longest 1026.12 s
+[2023.12.09-23.12.25:538][301]LogShaderCompilers: Display: Job execution time: average 16.74 s, max 117.16 s
+[2023.12.09-23.12.25:538][301]LogShaderCompilers: Display: Job life time (pending + execution): average 445.59 s, max 1030.87
+[2023.12.09-23.12.25:538][301]LogShaderCompilers: Display: Shader code size: average 14.207 KiB, min 140 B, max 154.367 KiB
+[2023.12.09-23.12.25:538][301]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1203.16 s
+[2023.12.09-23.12.25:538][301]LogShaderCompilers: Display: Jobs were issued in 444 batches (only local compilation was used), average 7.53 jobs/batch
+[2023.12.09-23.12.25:538][301]LogShaderCompilers: Display: Average processing rate: 2.78 jobs/sec
+[2023.12.09-23.12.25:538][301]LogShaderCompilers: Display: Total thread time: 5,789.358 s
+[2023.12.09-23.12.25:538][301]LogShaderCompilers: Display: Total thread preprocess time: 157.27 s
+[2023.12.09-23.12.25:538][301]LogShaderCompilers: Display: Percentage time preprocessing: 2.72%
+[2023.12.09-23.12.25:538][301]LogShaderCompilers: Display: Effective parallelization: 4.81 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2023.12.09-23.12.25:538][301]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.12.09-23.12.25:538][301]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 27.64 sec, max 27.64 sec, min 27.64 sec)
+[2023.12.09-23.12.25:539][301]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 26.63 sec, max 85.56 sec, min 3.01 sec)
+[2023.12.09-23.12.25:539][301]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 14.83 sec, max 14.83 sec, min 14.83 sec)
+[2023.12.09-23.12.25:539][301]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   34 times, average 13.46 sec, max 26.01 sec, min 5.17 sec)
+[2023.12.09-23.12.25:539][301]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 12.28 sec, max 12.28 sec, min 12.28 sec)
+[2023.12.09-23.12.25:539][301]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.12.09-23.12.25:539][301]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 12.84% of total time (compiled  128 times, average 5.81 sec, max 18.19 sec, min 1.19 sec)
+[2023.12.09-23.12.25:539][301]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 10.79% of total time (compiled  128 times, average 4.88 sec, max 8.49 sec, min 3.21 sec)
+[2023.12.09-23.12.25:539][301]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 7.90% of total time (compiled   34 times, average 13.46 sec, max 26.01 sec, min 5.17 sec)
+[2023.12.09-23.12.25:539][301]LogShaderCompilers: Display:                                             FDeferredLightPS - 6.73% of total time (compiled   90 times, average 4.33 sec, max 8.41 sec, min 0.70 sec)
+[2023.12.09-23.12.25:539][301]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 5.56% of total time (compiled   96 times, average 3.35 sec, max 9.39 sec, min 0.68 sec)
+[2023.12.09-23.12.25:539][301]LogShaderCompilers: Display: ================================================
+[2023.12.09-23.12.39:982][441]LogDerivedDataCache: C:/Users/10538/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.108 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1070 files in 1879 folders with total size 96 MiB.
+[2023.12.09-23.13.47:776][958]LogUObjectHash: Compacting FUObjectHashTables data took  22.04ms
+[2023.12.09-23.13.47:817][958]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.516
+[2023.12.09-23.13.47:824][958]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Weapons/DB_Weapons] ([1] browsable assets)...
+[2023.12.09-23.13.47:824][958]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapons/DB_Weapons]
+[2023.12.09-23.13.47:824][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/DB_Weapons" FILE="../../../../../RougeLike/Root/Roguelike/Saved/Autosaves/Game/Weapons/DB_Weapons_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2023.12.09-23.13.47:828][958]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Weapons/DB_Weapons_Auto0
+[2023.12.09-23.13.47:828][958]LogSavePackage: Moving '../../../../../RougeLike/Root/Roguelike/Saved/DB_Weapons_Auto069E1D8B642CBD465B116A4872078FBF6.tmp' to '../../../../../RougeLike/Root/Roguelike/Saved/Autosaves/Game/Weapons/DB_Weapons_Auto0.uasset'
+[2023.12.09-23.13.47:831][958]LogFileHelpers: Auto-saving content packages took 0.010
+[2023.12.09-23.14.17:371][447]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.09-23.14.17:425][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/DB_Weapons" FILE="../../../../../RougeLike/Root/Roguelike/Content/Weapons/DB_Weapons.uasset" SILENT=true
+[2023.12.09-23.14.17:427][447]LogSavePackage: Moving output files for package: /Game/Weapons/DB_Weapons
+[2023.12.09-23.14.17:428][447]LogSavePackage: Moving '../../../../../RougeLike/Root/Roguelike/Saved/DB_Weapons97DC2F69419176EDBBCBF2B3E673656D.tmp' to '../../../../../RougeLike/Root/Roguelike/Content/Weapons/DB_Weapons.uasset'
+[2023.12.09-23.14.17:443][447]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 1.74 sec)
+[2023.12.09-23.14.17:455][447]AssetCheck: New page: Asset Save: DB_Weapons
+[2023.12.09-23.14.17:455][447]LogContentValidation: Display: Validating /Script/Engine.DataTable /Game/Weapons/DB_Weapons.DB_Weapons
+[2023.12.09-23.14.19:476][523]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.12.09-23.15.02:245][651]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.12.09-23.15.26:822][209]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.12.09-23.15.26:878][209]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.09-23.15.26:903][209]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.09-23.16.28:256][818]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.12.09-23.16.55:903][914]LogViewport: Scene viewport resized to 1289x1184, mode Windowed.
+[2023.12.09-23.17.15:912][763]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2023.12.09-23.17.28:385][763]LogSlate: Window 'Delete Assets' being destroyed
+[2023.12.09-23.18.11:735][373]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.12.09-23.18.11:911][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.12.09-23.18.14:042][462]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.09-23.18.14:114][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/BP_WeaponMaster" FILE="../../../../../RougeLike/Root/Roguelike/Content/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.12.09-23.18.14:132][462]LogSavePackage: Moving output files for package: /Game/Weapons/BP_WeaponMaster
+[2023.12.09-23.18.14:134][462]LogSavePackage: Moving '../../../../../RougeLike/Root/Roguelike/Saved/BP_WeaponMaster01ECDDBE4D6D4EF1ACC8E5A0C8281D61.tmp' to '../../../../../RougeLike/Root/Roguelike/Content/Weapons/BP_WeaponMaster.uasset'
+[2023.12.09-23.18.14:148][462]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 1.84 sec)
+[2023.12.09-23.18.14:168][462]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.12.09-23.18.14:168][462]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.12.09-23.18.51:630][593]LogSlate: Took 0.010236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.12.09-23.19.00:116][ 74]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.12.09-23.19.00:202][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2023.12.09-23.19.17:324][300]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.12.09-23.20.51:038][449]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2023.12.09-23.21.09:412][769]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find inherited parent component 'WeaponModel' for 'Sphere' in BlueprintGeneratedClass 'BP_Stick_C' (it may have been removed)
+[2023.12.09-23.21.09:416][769]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Weapons/BP_Stick.BP_Stick
+[2023.12.09-23.21.09:416][769]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.09-23.21.09:416][769]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.09-23.21.44:474][793]LogEditorTransaction: Undo Edit Row Name
+[2023.12.09-23.21.46:034][862]LogEditorTransaction: Undo Edit Data Table
+[2023.12.09-23.21.46:694][899]LogEditorTransaction: Undo Change Parameter Type
+[2023.12.09-23.21.47:620][951]LogEditorTransaction: Undo Rename Variable
+[2023.12.09-23.21.48:290][986]LogEditorTransaction: Undo Add Variable
+[2023.12.09-23.21.48:897][999]LogEditorTransaction: Undo Add Component
+[2023.12.09-23.21.49:482][ 29]LogEditorTransaction: Undo Remove Components
+[2023.12.09-23.21.49:520][ 29]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find inherited parent component 'DefaultSceneRoot' for 'Sphere' in BlueprintGeneratedClass 'BP_Stick_C' (it may have been removed)
+[2023.12.09-23.21.52:879][224]BlueprintLog: New page: Compile BP_WeaponMaster
+[2023.12.09-23.21.52:989][224]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2023.12.09-23.21.54:407][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.09-23.21.54:472][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/BP_WeaponMaster" FILE="../../../../../RougeLike/Root/Roguelike/Content/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.12.09-23.21.54:480][297]LogSavePackage: Moving output files for package: /Game/Weapons/BP_WeaponMaster
+[2023.12.09-23.21.54:481][297]LogSavePackage: Moving '../../../../../RougeLike/Root/Roguelike/Saved/BP_WeaponMasterF18BDA504972678F090435905472ADA9.tmp' to '../../../../../RougeLike/Root/Roguelike/Content/Weapons/BP_WeaponMaster.uasset'
+[2023.12.09-23.21.54:499][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 1.94 sec)
+[2023.12.09-23.21.54:504][297]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.12.09-23.21.54:504][297]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/BP_WeaponMaster.BP_WeaponMaster
+[2023.12.09-23.24.43:600][147]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.09-23.24.43:645][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapons/BP_WeaponMaster" FILE="../../../../../RougeLike/Root/Roguelike/Content/Weapons/BP_WeaponMaster.uasset" SILENT=true
+[2023.12.09-23.24.43:650][147]LogSavePackage: Moving output files for package: /Game/Weapons/BP_WeaponMaster
+[2023.12.09-23.24.43:652][147]LogSavePackage: Moving '../../../../../RougeLike/Root/Roguelike/Saved/BP_WeaponMaster2D5823714E22B5353C2B5CA6D9B98D36.tmp' to '../../../../../RougeLike/Root/Roguelike/Content/Weapons/BP_WeaponMaster.uasset'
+[2023.12.09-23.24.43:669][147]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 2.00 sec)
+[2023.12.09-23.24.43:671][147]AssetCheck: New page: Asset Save: BP_WeaponMaster
+[2023.12.09-23.24.43:671][147]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapons/BP_WeaponMaster.BP_WeaponMaster
