@@ -2066,3 +2066,103 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.12.09-21.04.46:210][936]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2023.12.09-21.04.46:235][936]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2023.12.09-21.04.47:460][936]LogViewport: Scene viewport resized to 1289x1184, mode Windowed.
+[2023.12.09-21.11.21:942][488]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2023.12.09-21.11.21:945][488]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.037
+[2023.12.09-21.11.21:945][488]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/Enemy/BP_Enemy2Spawner] ([2] browsable assets)...
+[2023.12.09-21.11.21:945][488]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/Enemy/BP_Enemy2Spawner]
+[2023.12.09-21.11.21:955][488]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/Enemy/BP_Enemy2Spawner_Auto8
+[2023.12.09-21.11.21:955][488]LogSavePackage: Moving '../../../../../RougeLike/Root/Roguelike/Saved/BP_Enemy2Spawner_Auto869A1A4AB4B07510ED70CA1B542C2FA75.tmp' to '../../../../../RougeLike/Root/Roguelike/Saved/Autosaves/Game/TopDown/Blueprints/Enemy/BP_Enemy2Spawner_Auto8.uasset'
+[2023.12.09-21.11.21:957][488]LogFileHelpers: Auto-saving content packages took 0.012
+[2023.12.09-21.12.39:370][721]LogDerivedDataCache: C:/Users/10538/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.497 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1045 files in 1842 folders with total size 96 MiB.
+[2023.12.09-21.31.02:098][ 29]LogHttp: Warning: 000006171689A500: request failed, libcurl error: 35 (SSL connect error)
+[2023.12.09-21.31.02:098][ 29]LogHttp: Warning: 000006171689A500: libcurl info message cache 0 (Found bundle for host: 0x61527150ed0 [serially])
+[2023.12.09-21.31.02:098][ 29]LogHttp: Warning: 000006171689A500: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2023.12.09-21.31.02:098][ 29]LogHttp: Warning: 000006171689A500: libcurl info message cache 2 (We are completely uploaded and fine)
+[2023.12.09-21.31.02:098][ 29]LogHttp: Warning: 000006171689A500: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2023.12.09-21.31.02:098][ 29]LogHttp: Warning: 000006171689A500: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.12.09-21.31.02:098][ 29]LogHttp: Warning: 000006171689A500: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.12.09-21.31.02:098][ 29]LogHttp: Warning: 000006171689A500: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2023.12.09-21.31.02:098][ 29]LogHttp: Warning: 000006171689A500: libcurl info message cache 7 (Closing connection)
+[2023.12.09-21.31.02:098][ 29]LogHttp: Warning: 000006171689A500: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2023.12.09-21.31.02:098][ 29]LogHttp: Warning: 000006171689A500: libcurl info message cache 9 (Send failure: Connection was reset)
+[2023.12.09-21.31.02:099][ 29]LogHttp: Warning: 000006171689A500: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2023.12.09-21.31.02:099][ 29]LogHttp: Warning: 000006171689A500: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBDE52F21-4AA3-F3C9-BAEC-DFB6CEC74EF8%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=4b239bf2403327d86158a4b71a86ab32%7C41e27fc1eebb490e83a1bf5e6c3deddf%7Cca877445-0d2e-4338-a81a-24c0960f1e35&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2023.12.09-21.31.02:099][ 29]LogHttp: Warning: 000006171689A500: libcurl info message cache 12 (  Trying 44.208.149.95:443...)
+[2023.12.09-21.31.02:099][ 29]LogHttp: Warning: 000006171689A500: libcurl info message cache 13 (Connected to datarouter.ol.epicgames.com (44.208.149.95) port 443)
+[2023.12.09-21.31.02:099][ 29]LogHttp: Warning: 000006171689A500: libcurl info message cache 14 (ALPN: curl offers http/1.1)
+[2023.12.09-21.31.02:099][ 29]LogHttp: Warning: 000006171689A500: libcurl info message cache 15 (SSL reusing session ID)
+[2023.12.09-21.31.02:099][ 29]LogHttp: Warning: 000006171689A500: libcurl info message cache 16 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.12.09-21.31.02:099][ 29]LogHttp: Warning: 000006171689A500: libcurl info message cache 17 (Recv failure: Connection was reset)
+[2023.12.09-21.31.02:099][ 29]LogHttp: Warning: 000006171689A500: libcurl info message cache 18 (OpenSSL SSL_connect: Connection was reset in connection to datarouter.ol.epicgames.com:443 )
+[2023.12.09-21.31.02:099][ 29]LogHttp: Warning: 000006171689A500: libcurl info message cache 19 (Closing connection)
+[2023.12.09-21.31.02:099][ 29]LogHttp: Warning: 000006171689A500: libcurl info message cache 20 (Recv failure: Connection was reset)
+[2023.12.09-21.31.02:099][ 29]LogHttp: Warning: 000006171689A500: libcurl info message cache 21 (Recv failure: Connection was reset)
+[2023.12.09-21.31.02:099][ 29]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBDE52F21-4AA3-F3C9-BAEC-DFB6CEC74EF8%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=4b239bf2403327d86158a4b71a86ab32%7C41e27fc1eebb490e83a1bf5e6c3deddf%7Cca877445-0d2e-4338-a81a-24c0960f1e35&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.12.09-22.01.56:698][590]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=扬声器 (HyperX Cloud II Wireless), InstanceID=1
+[2023.12.09-22.01.56:818][590]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=1104
+[2023.12.09-22.01.57:171][591]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{2e13377a-1685-4eef-9cc7-b0608dda0f96}, Name=扬声器 (HyperX Cloud II Wireless)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=144.02
+[2023.12.09-22.01.57:172][591]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.12.09-22.01.57:180][591]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.12.09-22.11.35:445][ 25]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TopDown/Blueprints/Enemy/BP_enemySpawner.BP_enemySpawner
+[2023.12.09-22.11.35:456][ 25]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.09-22.11.35:458][ 25]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.09-22.12.39:149][499]LogDerivedDataCache: C:/Users/10538/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.276 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1045 files in 1842 folders with total size 96 MiB.
+[2023.12.09-22.14.22:627][444]BlueprintLog: New page: Compile BP_Enemy2Spawner
+[2023.12.09-22.14.22:641][444]LogBlueprint: Warning: [AssetLog] /Game/TopDown/Blueprints/Enemy/BP_Enemy2Spawner.BP_Enemy2Spawner: [Compiler] Could not find a variable named "EnemySpawnLocation" in 'BP_Enemy2Spawner_C'.
+Make sure 'BP_Enemy2Spawner_C' has been compiled for  Set
+[2023.12.09-22.14.22:644][444]LogBlueprint: Error: [AssetLog] /Game/TopDown/Blueprints/Enemy/BP_Enemy2Spawner.BP_Enemy2Spawner: [Compiler] The property associated with  Enemy Spawn Location  could not be found in '/Game/TopDown/Blueprints/Enemy/BP_Enemy2Spawner.BP_Enemy2Spawner_C'
+[2023.12.09-22.14.22:787][444]LogUObjectHash: Compacting FUObjectHashTables data took   7.35ms
+[2023.12.09-22.16.48:865][991]LogEditorTransaction: Undo Add Component
+[2023.12.09-22.17.02:029][377]LogHttp: Warning: 000006171BBEBE00: request failed, libcurl error: 35 (SSL connect error)
+[2023.12.09-22.17.02:029][377]LogHttp: Warning: 000006171BBEBE00: libcurl info message cache 0 (Found bundle for host: 0x61527150f90 [serially])
+[2023.12.09-22.17.02:029][377]LogHttp: Warning: 000006171BBEBE00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2023.12.09-22.17.02:030][377]LogHttp: Warning: 000006171BBEBE00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2023.12.09-22.17.02:030][377]LogHttp: Warning: 000006171BBEBE00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2023.12.09-22.17.02:030][377]LogHttp: Warning: 000006171BBEBE00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.12.09-22.17.02:030][377]LogHttp: Warning: 000006171BBEBE00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.12.09-22.17.02:030][377]LogHttp: Warning: 000006171BBEBE00: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2023.12.09-22.17.02:030][377]LogHttp: Warning: 000006171BBEBE00: libcurl info message cache 7 (Closing connection)
+[2023.12.09-22.17.02:030][377]LogHttp: Warning: 000006171BBEBE00: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2023.12.09-22.17.02:030][377]LogHttp: Warning: 000006171BBEBE00: libcurl info message cache 9 (Send failure: Connection was reset)
+[2023.12.09-22.17.02:030][377]LogHttp: Warning: 000006171BBEBE00: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2023.12.09-22.17.02:030][377]LogHttp: Warning: 000006171BBEBE00: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBDE52F21-4AA3-F3C9-BAEC-DFB6CEC74EF8%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=4b239bf2403327d86158a4b71a86ab32%7C41e27fc1eebb490e83a1bf5e6c3deddf%7Cca877445-0d2e-4338-a81a-24c0960f1e35&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2023.12.09-22.17.02:030][377]LogHttp: Warning: 000006171BBEBE00: libcurl info message cache 12 (  Trying 18.213.12.29:443...)
+[2023.12.09-22.17.02:030][377]LogHttp: Warning: 000006171BBEBE00: libcurl info message cache 13 (Connected to datarouter.ol.epicgames.com (18.213.12.29) port 443)
+[2023.12.09-22.17.02:030][377]LogHttp: Warning: 000006171BBEBE00: libcurl info message cache 14 (ALPN: curl offers http/1.1)
+[2023.12.09-22.17.02:030][377]LogHttp: Warning: 000006171BBEBE00: libcurl info message cache 15 (SSL reusing session ID)
+[2023.12.09-22.17.02:030][377]LogHttp: Warning: 000006171BBEBE00: libcurl info message cache 16 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.12.09-22.17.02:031][377]LogHttp: Warning: 000006171BBEBE00: libcurl info message cache 17 (Recv failure: Connection was reset)
+[2023.12.09-22.17.02:031][377]LogHttp: Warning: 000006171BBEBE00: libcurl info message cache 18 (OpenSSL SSL_connect: Connection was reset in connection to datarouter.ol.epicgames.com:443 )
+[2023.12.09-22.17.02:031][377]LogHttp: Warning: 000006171BBEBE00: libcurl info message cache 19 (Closing connection)
+[2023.12.09-22.17.02:031][377]LogHttp: Warning: 000006171BBEBE00: libcurl info message cache 20 (Recv failure: Connection was reset)
+[2023.12.09-22.17.02:031][377]LogHttp: Warning: 000006171BBEBE00: libcurl info message cache 21 (Recv failure: Connection was reset)
+[2023.12.09-22.17.02:031][377]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBDE52F21-4AA3-F3C9-BAEC-DFB6CEC74EF8%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=4b239bf2403327d86158a4b71a86ab32%7C41e27fc1eebb490e83a1bf5e6c3deddf%7Cca877445-0d2e-4338-a81a-24c0960f1e35&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.12.09-22.17.18:796][426]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.12.09-22.17.18:801][426]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.034
+[2023.12.09-22.17.18:801][426]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/Enemy/BP_Enemy2Spawner] ([2] browsable assets)...
+[2023.12.09-22.17.18:801][426]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/Enemy/BP_Enemy2Spawner]
+[2023.12.09-22.17.18:809][426]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TopDown/Blueprints/Enemy/BP_Enemy2Spawner_Auto9
+[2023.12.09-22.17.18:809][426]LogSavePackage: Moving '../../../../../RougeLike/Root/Roguelike/Saved/BP_Enemy2Spawner_Auto9F834FA454F664D8B187FC7B7631677A2.tmp' to '../../../../../RougeLike/Root/Roguelike/Saved/Autosaves/Game/TopDown/Blueprints/Enemy/BP_Enemy2Spawner_Auto9.uasset'
+[2023.12.09-22.17.18:811][426]LogFileHelpers: Auto-saving content packages took 0.011
+[2023.12.09-22.18.02:041][557]LogHttp: Warning: 000006170E87F500: request failed, libcurl error: 35 (SSL connect error)
+[2023.12.09-22.18.02:041][557]LogHttp: Warning: 000006170E87F500: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2023.12.09-22.18.02:041][557]LogHttp: Warning: 000006170E87F500: libcurl info message cache 1 (  Trying 35.169.119.243:443...)
+[2023.12.09-22.18.02:041][557]LogHttp: Warning: 000006170E87F500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.169.119.243) port 443)
+[2023.12.09-22.18.02:041][557]LogHttp: Warning: 000006170E87F500: libcurl info message cache 3 (ALPN: curl offers http/1.1)
+[2023.12.09-22.18.02:041][557]LogHttp: Warning: 000006170E87F500: libcurl info message cache 4 (SSL reusing session ID)
+[2023.12.09-22.18.02:041][557]LogHttp: Warning: 000006170E87F500: libcurl info message cache 5 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.12.09-22.18.02:041][557]LogHttp: Warning: 000006170E87F500: libcurl info message cache 6 (Recv failure: Connection was reset)
+[2023.12.09-22.18.02:041][557]LogHttp: Warning: 000006170E87F500: libcurl info message cache 7 (OpenSSL SSL_connect: Connection was reset in connection to datarouter.ol.epicgames.com:443 )
+[2023.12.09-22.18.02:041][557]LogHttp: Warning: 000006170E87F500: libcurl info message cache 8 (Closing connection)
+[2023.12.09-22.18.02:041][557]LogHttp: Warning: 000006170E87F500: libcurl info message cache 9 (Recv failure: Connection was reset)
+[2023.12.09-22.18.02:041][557]LogHttp: Warning: 000006170E87F500: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2023.12.09-22.18.02:041][557]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBDE52F21-4AA3-F3C9-BAEC-DFB6CEC74EF8%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=4b239bf2403327d86158a4b71a86ab32%7C41e27fc1eebb490e83a1bf5e6c3deddf%7Cca877445-0d2e-4338-a81a-24c0960f1e35&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.12.09-22.28.49:729][797]BlueprintLog: New page: Compile BP_Enemy2Spawner
+[2023.12.09-22.28.49:792][797]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2023.12.09-22.28.53:555][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.09-22.28.53:630][ 14]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/Blueprints/Enemy/BP_Enemy2Spawner" FILE="../../../../../RougeLike/Root/Roguelike/Content/TopDown/Blueprints/Enemy/BP_Enemy2Spawner.uasset" SILENT=true
+[2023.12.09-22.28.53:637][ 14]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/Enemy/BP_Enemy2Spawner
+[2023.12.09-22.28.53:637][ 14]LogSavePackage: Moving '../../../../../RougeLike/Root/Roguelike/Saved/BP_Enemy2Spawner4D6BB3D94744E7D0F5B327BCEC2ECBC6.tmp' to '../../../../../RougeLike/Root/Roguelike/Content/TopDown/Blueprints/Enemy/BP_Enemy2Spawner.uasset'
+[2023.12.09-22.28.53:663][ 14]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 1.10 sec)
+[2023.12.09-22.28.53:666][ 14]AssetCheck: New page: Asset Save: BP_Enemy2Spawner
+[2023.12.09-22.28.53:666][ 14]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/TopDown/Blueprints/Enemy/BP_Enemy2Spawner.BP_Enemy2Spawner
